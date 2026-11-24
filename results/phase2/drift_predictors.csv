@@ -1,0 +1,337 @@
+model,gran,scope,n,predictor,outcome,spearman_r,p
+LR,feature,all cutoffs pooled,65,auc_drop (needs target labels),feature_drift,0.27089160839160836,0.0290646565939411
+LR,feature,all cutoffs pooled,65,auc_drop (needs target labels),feature_excess_spearman,0.24388111888111888,0.050259081272915854
+LR,feature,all cutoffs pooled,65,auc_drop_vs_src (needs labels),feature_drift,0.016346153846153844,0.8971690079222584
+LR,feature,all cutoffs pooled,65,auc_drop_vs_src (needs labels),feature_excess_spearman,-0.12014860139860141,0.34042137795904587
+LR,feature,all cutoffs pooled,65,shift_wks (label-free),feature_drift,-0.24121503496503496,0.05290554288698905
+LR,feature,all cutoffs pooled,65,shift_wks (label-free),feature_excess_spearman,-0.20743006993006993,0.09731891968230477
+LR,feature,all cutoffs pooled,65,shift_wpsi (label-free),feature_drift,-0.22849650349650347,0.06713707221307189
+LR,feature,all cutoffs pooled,65,shift_wpsi (label-free),feature_excess_spearman,-0.23977272727272728,0.05438394094441397
+LR,feature,all cutoffs pooled,65,shift_mean_ks (label-free),feature_drift,-0.27368881118881117,0.027381013598553727
+LR,feature,all cutoffs pooled,65,shift_mean_ks (label-free),feature_excess_spearman,-0.18129370629370628,0.1483783954333225
+LR,feature,all cutoffs pooled,65,top5_max_degenerate (label-free),feature_drift,0.24584790209790208,0.04837699915037914
+LR,feature,all cutoffs pooled,65,top5_max_degenerate (label-free),feature_excess_spearman,0.2765734265734266,0.025731525563471698
+LR,feature,all cutoffs pooled,65,"src-vs-tgt SHAP drift, same model (label-free)",feature_drift,-0.14986888111888114,0.2334256735619731
+LR,feature,all cutoffs pooled,65,"src-vs-tgt SHAP drift, same model (label-free)",feature_excess_spearman,-0.12001748251748252,0.3409524525166075
+LR,feature,cutoff 7,13,auc_drop (needs target labels),feature_drift,-0.21978021978021978,0.4706148514721425
+LR,feature,cutoff 7,13,auc_drop (needs target labels),feature_excess_spearman,0.18131868131868134,0.5532950092839335
+LR,feature,cutoff 7,13,auc_drop_vs_src (needs labels),feature_drift,-0.6483516483516483,0.016536698804267263
+LR,feature,cutoff 7,13,auc_drop_vs_src (needs labels),feature_excess_spearman,-0.32967032967032966,0.27133505450523593
+LR,feature,cutoff 7,13,shift_wks (label-free),feature_drift,-0.6593406593406593,0.0142255785114567
+LR,feature,cutoff 7,13,shift_wks (label-free),feature_excess_spearman,-0.41208791208791207,0.1617510527725265
+LR,feature,cutoff 7,13,shift_wpsi (label-free),feature_drift,-0.6703296703296703,0.012166220319952023
+LR,feature,cutoff 7,13,shift_wpsi (label-free),feature_excess_spearman,-0.5054945054945055,0.07803332731018385
+LR,feature,cutoff 7,13,shift_mean_ks (label-free),feature_drift,-0.5989010989010989,0.03055411417293788
+LR,feature,cutoff 7,13,shift_mean_ks (label-free),feature_excess_spearman,-0.39560439560439564,0.18088916310494077
+LR,feature,cutoff 7,13,top5_max_degenerate (label-free),feature_drift,0.13186813186813187,0.6676075762175145
+LR,feature,cutoff 7,13,top5_max_degenerate (label-free),feature_excess_spearman,0.21978021978021978,0.4706148514721425
+LR,feature,cutoff 7,13,"src-vs-tgt SHAP drift, same model (label-free)",feature_drift,-0.39560439560439564,0.18088916310494077
+LR,feature,cutoff 7,13,"src-vs-tgt SHAP drift, same model (label-free)",feature_excess_spearman,-0.010989010989010988,0.971577682777073
+LR,feature,cutoff 14,13,auc_drop (needs target labels),feature_drift,-0.06593406593406594,0.830542385756094
+LR,feature,cutoff 14,13,auc_drop (needs target labels),feature_excess_spearman,-0.016483516483516484,0.9573761750901848
+LR,feature,cutoff 14,13,auc_drop_vs_src (needs labels),feature_drift,-0.26373626373626374,0.38393651665067413
+LR,feature,cutoff 14,13,auc_drop_vs_src (needs labels),feature_excess_spearman,-0.3681318681318681,0.21585718064938147
+LR,feature,cutoff 14,13,shift_wks (label-free),feature_drift,-0.34065934065934067,0.2547064607541251
+LR,feature,cutoff 14,13,shift_wks (label-free),feature_excess_spearman,-0.45604395604395603,0.11728306543614493
+LR,feature,cutoff 14,13,shift_wpsi (label-free),feature_drift,-0.3516483516483516,0.2386997053420338
+LR,feature,cutoff 14,13,shift_wpsi (label-free),feature_excess_spearman,-0.43956043956043955,0.13286024415692985
+LR,feature,cutoff 14,13,shift_mean_ks (label-free),feature_drift,-0.35714285714285715,0.2309298623020339
+LR,feature,cutoff 14,13,shift_mean_ks (label-free),feature_excess_spearman,-0.43956043956043955,0.13286024415692985
+LR,feature,cutoff 14,13,top5_max_degenerate (label-free),feature_drift,0.11538461538461539,0.7073898735142603
+LR,feature,cutoff 14,13,top5_max_degenerate (label-free),feature_excess_spearman,0.5054945054945055,0.07803332731018385
+LR,feature,cutoff 14,13,"src-vs-tgt SHAP drift, same model (label-free)",feature_drift,0.18131868131868134,0.5532950092839335
+LR,feature,cutoff 14,13,"src-vs-tgt SHAP drift, same model (label-free)",feature_excess_spearman,-0.027472527472527472,0.9290117291603509
+LR,feature,cutoff 28,13,auc_drop (needs target labels),feature_drift,0.4945054945054945,0.08582353060960757
+LR,feature,cutoff 28,13,auc_drop (needs target labels),feature_excess_spearman,0.3021978021978022,0.3156083662499548
+LR,feature,cutoff 28,13,auc_drop_vs_src (needs labels),feature_drift,0.39560439560439564,0.18088916310494077
+LR,feature,cutoff 28,13,auc_drop_vs_src (needs labels),feature_excess_spearman,-0.09890109890109891,0.7478683035983906
+LR,feature,cutoff 28,13,shift_wks (label-free),feature_drift,0.054945054945054944,0.8585042942308734
+LR,feature,cutoff 28,13,shift_wks (label-free),feature_excess_spearman,0.06593406593406594,0.830542385756094
+LR,feature,cutoff 28,13,shift_wpsi (label-free),feature_drift,-0.11538461538461539,0.7073898735142603
+LR,feature,cutoff 28,13,shift_wpsi (label-free),feature_excess_spearman,-0.15384615384615383,0.6157988686488813
+LR,feature,cutoff 28,13,shift_mean_ks (label-free),feature_drift,-0.005494505494505494,0.9857869107140622
+LR,feature,cutoff 28,13,shift_mean_ks (label-free),feature_excess_spearman,0.06043956043956044,0.8445023706449681
+LR,feature,cutoff 28,13,top5_max_degenerate (label-free),feature_drift,0.3021978021978022,0.3156083662499548
+LR,feature,cutoff 28,13,top5_max_degenerate (label-free),feature_excess_spearman,0.3736263736263736,0.20855405979520916
+LR,feature,cutoff 28,13,"src-vs-tgt SHAP drift, same model (label-free)",feature_drift,0.23626373626373626,0.43708354383118136
+LR,feature,cutoff 28,13,"src-vs-tgt SHAP drift, same model (label-free)",feature_excess_spearman,0.22527472527472525,0.45930514272500556
+LR,feature,cutoff 56,13,auc_drop (needs target labels),feature_drift,0.33516483516483514,0.26294314035936023
+LR,feature,cutoff 56,13,auc_drop (needs target labels),feature_excess_spearman,0.35714285714285715,0.2309298623020339
+LR,feature,cutoff 56,13,auc_drop_vs_src (needs labels),feature_drift,0.15934065934065936,0.6030877531318971
+LR,feature,cutoff 56,13,auc_drop_vs_src (needs labels),feature_excess_spearman,-0.11538461538461539,0.7073898735142603
+LR,feature,cutoff 56,13,shift_wks (label-free),feature_drift,-0.7472527472527472,0.0033267413834299855
+LR,feature,cutoff 56,13,shift_wks (label-free),feature_excess_spearman,-0.5659340659340659,0.04379259223545486
+LR,feature,cutoff 56,13,shift_wpsi (label-free),feature_drift,-0.7692307692307693,0.0021122295993498794
+LR,feature,cutoff 56,13,shift_wpsi (label-free),feature_excess_spearman,-0.7472527472527472,0.0033267413834299855
+LR,feature,cutoff 56,13,shift_mean_ks (label-free),feature_drift,-0.8461538461538461,0.00026601205575225306
+LR,feature,cutoff 56,13,shift_mean_ks (label-free),feature_excess_spearman,-0.5549450549450549,0.04900449559833095
+LR,feature,cutoff 56,13,top5_max_degenerate (label-free),feature_drift,-0.5439560439560439,0.05464653454086549
+LR,feature,cutoff 56,13,top5_max_degenerate (label-free),feature_excess_spearman,-0.33516483516483514,0.26294314035936023
+LR,feature,cutoff 56,13,"src-vs-tgt SHAP drift, same model (label-free)",feature_drift,-0.4010989010989011,0.17435746494503296
+LR,feature,cutoff 56,13,"src-vs-tgt SHAP drift, same model (label-free)",feature_excess_spearman,-0.3131868131868132,0.2974384220710294
+LR,feature,cutoff 112,13,auc_drop (needs target labels),feature_drift,0.4340659340659341,0.1383423778882126
+LR,feature,cutoff 112,13,auc_drop (needs target labels),feature_excess_spearman,0.010989010989010988,0.971577682777073
+LR,feature,cutoff 112,13,auc_drop_vs_src (needs labels),feature_drift,0.2857142857142857,0.3440002182586698
+LR,feature,cutoff 112,13,auc_drop_vs_src (needs labels),feature_excess_spearman,-0.07692307692307691,0.8027630076692551
+LR,feature,cutoff 112,13,shift_wks (label-free),feature_drift,-0.7252747252747254,0.0050232376553499165
+LR,feature,cutoff 112,13,shift_wks (label-free),feature_excess_spearman,-0.3131868131868132,0.2974384220710294
+LR,feature,cutoff 112,13,shift_wpsi (label-free),feature_drift,-0.7692307692307693,0.0021122295993498794
+LR,feature,cutoff 112,13,shift_wpsi (label-free),feature_excess_spearman,-0.5439560439560439,0.05464653454086549
+LR,feature,cutoff 112,13,shift_mean_ks (label-free),feature_drift,-0.6923076923076923,0.008730317796749335
+LR,feature,cutoff 112,13,shift_mean_ks (label-free),feature_excess_spearman,-0.2582417582417582,0.3942840173973614
+LR,feature,cutoff 112,13,top5_max_degenerate (label-free),feature_drift,-0.054945054945054944,0.8585042942308734
+LR,feature,cutoff 112,13,top5_max_degenerate (label-free),feature_excess_spearman,-0.14835164835164835,0.6286094178894162
+LR,feature,cutoff 112,13,"src-vs-tgt SHAP drift, same model (label-free)",feature_drift,-0.41208791208791207,0.1617510527725265
+LR,feature,cutoff 112,13,"src-vs-tgt SHAP drift, same model (label-free)",feature_excess_spearman,-0.32417582417582413,0.27988186889314004
+LR,family,all cutoffs pooled,65,auc_drop (needs target labels),family_drift,0.25074109324224164,0.043944117288455244
+LR,family,all cutoffs pooled,65,auc_drop (needs target labels),family_excess_spearman,0.3601656486846197,0.0032087501832074104
+LR,family,all cutoffs pooled,65,auc_drop_vs_src (needs labels),family_drift,0.2979232042187326,0.015937692764205244
+LR,family,all cutoffs pooled,65,auc_drop_vs_src (needs labels),family_excess_spearman,0.15808739169859468,0.20848674593631014
+LR,family,all cutoffs pooled,65,shift_wks (label-free),family_drift,0.3530018112835467,0.003923499969624792
+LR,family,all cutoffs pooled,65,shift_wks (label-free),family_excess_spearman,0.3579366033496381,0.003417612311521626
+LR,family,all cutoffs pooled,65,shift_wpsi (label-free),family_drift,0.32436881023198133,0.008386684274075412
+LR,family,all cutoffs pooled,65,shift_wpsi (label-free),family_excess_spearman,0.3179012008625182,0.009863112184155386
+LR,family,all cutoffs pooled,65,shift_mean_ks (label-free),family_drift,0.30864143990648435,0.012368150957722798
+LR,family,all cutoffs pooled,65,shift_mean_ks (label-free),family_excess_spearman,0.3428140604887828,0.005182286571774504
+LR,family,all cutoffs pooled,65,top5_max_degenerate (label-free),family_drift,-0.011396328149629932,0.92820754611835
+LR,family,all cutoffs pooled,65,top5_max_degenerate (label-free),family_excess_spearman,0.10369431484791701,0.411072207438662
+LR,family,all cutoffs pooled,65,"src-vs-tgt SHAP drift, same model (label-free)",family_drift,0.21858052025131547,0.08024272501526027
+LR,family,all cutoffs pooled,65,"src-vs-tgt SHAP drift, same model (label-free)",family_excess_spearman,0.19750578249807862,0.11478998569813126
+LR,family,cutoff 7,13,auc_drop (needs target labels),family_drift,-0.02766317880559448,0.9285202178072772
+LR,family,cutoff 7,13,auc_drop (needs target labels),family_excess_spearman,0.1868131868131868,0.5411235235098939
+LR,family,cutoff 7,13,auc_drop_vs_src (needs labels),family_drift,0.7220089668260159,0.005323447490291678
+LR,family,cutoff 7,13,auc_drop_vs_src (needs labels),family_excess_spearman,0.3681318681318681,0.21585718064938147
+LR,family,cutoff 7,13,shift_wks (label-free),family_drift,0.4481434966506306,0.1245876619775937
+LR,family,cutoff 7,13,shift_wks (label-free),family_excess_spearman,0.33516483516483514,0.26294314035936023
+LR,family,cutoff 7,13,shift_wpsi (label-free),family_drift,0.506236172142379,0.07752595120716192
+LR,family,cutoff 7,13,shift_wpsi (label-free),family_excess_spearman,0.38461538461538464,0.19441291997748633
+LR,family,cutoff 7,13,shift_mean_ks (label-free),family_drift,0.4536761324117495,0.11944136330368035
+LR,family,cutoff 7,13,shift_mean_ks (label-free),family_excess_spearman,0.3131868131868132,0.2974384220710294
+LR,family,cutoff 7,13,top5_max_degenerate (label-free),family_drift,-0.23790333772811253,0.43381420728668274
+LR,family,cutoff 7,13,top5_max_degenerate (label-free),family_excess_spearman,0.0879120879120879,0.775195408889122
+LR,family,cutoff 7,13,"src-vs-tgt SHAP drift, same model (label-free)",family_drift,0.1737461452260178,0.5702550122502408
+LR,family,cutoff 7,13,"src-vs-tgt SHAP drift, same model (label-free)",family_excess_spearman,0.09258711133604776,0.7635386769815236
+LR,family,cutoff 14,13,auc_drop (needs target labels),family_drift,-0.12929860925197142,0.6737596060710331
+LR,family,cutoff 14,13,auc_drop (needs target labels),family_excess_spearman,0.07692307692307691,0.8027630076692551
+LR,family,cutoff 14,13,auc_drop_vs_src (needs labels),family_drift,0.43466340982577634,0.13773914869109352
+LR,family,cutoff 14,13,auc_drop_vs_src (needs labels),family_excess_spearman,0.06593406593406594,0.830542385756094
+LR,family,cutoff 14,13,shift_wks (label-free),family_drift,0.1623110201248152,0.5962584906802038
+LR,family,cutoff 14,13,shift_wks (label-free),family_excess_spearman,0.0934065934065934,0.7615000227827017
+LR,family,cutoff 14,13,shift_wpsi (label-free),family_drift,0.1045393010973386,0.7339499266784841
+LR,family,cutoff 14,13,shift_wpsi (label-free),family_excess_spearman,0.005494505494505494,0.9857869107140622
+LR,family,cutoff 14,13,shift_mean_ks (label-free),family_drift,0.06877585598509117,0.8233398751292708
+LR,family,cutoff 14,13,shift_mean_ks (label-free),family_excess_spearman,-0.010989010989010988,0.971577682777073
+LR,family,cutoff 14,13,top5_max_degenerate (label-free),family_drift,-0.12654757501256778,0.6803669766362551
+LR,family,cutoff 14,13,top5_max_degenerate (label-free),family_excess_spearman,0.010989010989010988,0.971577682777073
+LR,family,cutoff 14,13,"src-vs-tgt SHAP drift, same model (label-free)",family_drift,0.1325971910100576,0.6658654980981985
+LR,family,cutoff 14,13,"src-vs-tgt SHAP drift, same model (label-free)",family_excess_spearman,-0.13241492674382127,0.6663008721034527
+LR,family,cutoff 28,13,auc_drop (needs target labels),family_drift,0.4505494505494505,0.1223318876780357
+LR,family,cutoff 28,13,auc_drop (needs target labels),family_excess_spearman,0.4725274725274725,0.10298105029992857
+LR,family,cutoff 28,13,auc_drop_vs_src (needs labels),family_drift,0.20329670329670327,0.5053147342962485
+LR,family,cutoff 28,13,auc_drop_vs_src (needs labels),family_excess_spearman,0.07692307692307691,0.8027630076692551
+LR,family,cutoff 28,13,shift_wks (label-free),family_drift,0.6263736263736264,0.021988602409889674
+LR,family,cutoff 28,13,shift_wks (label-free),family_excess_spearman,0.5604395604395606,0.04634590589406464
+LR,family,cutoff 28,13,shift_wpsi (label-free),family_drift,0.4835164835164835,0.09413469259693935
+LR,family,cutoff 28,13,shift_wpsi (label-free),family_excess_spearman,0.38461538461538464,0.19441291997748633
+LR,family,cutoff 28,13,shift_mean_ks (label-free),family_drift,0.5494505494505494,0.05177062555916278
+LR,family,cutoff 28,13,shift_mean_ks (label-free),family_excess_spearman,0.521978021978022,0.06729171199351022
+LR,family,cutoff 28,13,top5_max_degenerate (label-free),family_drift,0.16483516483516483,0.590478988652005
+LR,family,cutoff 28,13,top5_max_degenerate (label-free),family_excess_spearman,0.21978021978021978,0.4706148514721425
+LR,family,cutoff 28,13,"src-vs-tgt SHAP drift, same model (label-free)",family_drift,0.35635902997084024,0.23202875847604643
+LR,family,cutoff 28,13,"src-vs-tgt SHAP drift, same model (label-free)",family_excess_spearman,0.3729338685741352,0.20946596399118297
+LR,family,cutoff 56,13,auc_drop (needs target labels),family_drift,0.23626373626373626,0.43708354383118136
+LR,family,cutoff 56,13,auc_drop (needs target labels),family_excess_spearman,0.2912087912087912,0.33438585619752936
+LR,family,cutoff 56,13,auc_drop_vs_src (needs labels),family_drift,0.2802197802197803,0.35376363563367896
+LR,family,cutoff 56,13,auc_drop_vs_src (needs labels),family_excess_spearman,0.20329670329670327,0.5053147342962485
+LR,family,cutoff 56,13,shift_wks (label-free),family_drift,0.5384615384615384,0.05763443347046609
+LR,family,cutoff 56,13,shift_wks (label-free),family_excess_spearman,0.6263736263736264,0.021988602409889674
+LR,family,cutoff 56,13,shift_wpsi (label-free),family_drift,0.4450549450549451,0.12752383613843685
+LR,family,cutoff 56,13,shift_wpsi (label-free),family_excess_spearman,0.48901098901098894,0.08991308230865641
+LR,family,cutoff 56,13,shift_mean_ks (label-free),family_drift,0.3186813186813187,0.28858316144472024
+LR,family,cutoff 56,13,shift_mean_ks (label-free),family_excess_spearman,0.41208791208791207,0.1617510527725265
+LR,family,cutoff 56,13,top5_max_degenerate (label-free),family_drift,-0.17032967032967034,0.5779754288392673
+LR,family,cutoff 56,13,top5_max_degenerate (label-free),family_excess_spearman,-0.06043956043956044,0.8445023706449681
+LR,family,cutoff 56,13,"src-vs-tgt SHAP drift, same model (label-free)",family_drift,0.07448339629339946,0.808913065017844
+LR,family,cutoff 56,13,"src-vs-tgt SHAP drift, same model (label-free)",family_excess_spearman,0.1737945913512654,0.5701458390171228
+LR,family,cutoff 112,13,auc_drop (needs target labels),family_drift,0.36515396023384716,0.21988025019460397
+LR,family,cutoff 112,13,auc_drop (needs target labels),family_excess_spearman,0.054945054945054944,0.8585042942308734
+LR,family,cutoff 112,13,auc_drop_vs_src (needs labels),family_drift,-0.15214748343076964,0.6197488717703855
+LR,family,cutoff 112,13,auc_drop_vs_src (needs labels),family_excess_spearman,-0.0934065934065934,0.7615000227827017
+LR,family,cutoff 112,13,shift_wks (label-free),family_drift,0.04149476820839173,0.8929339453936255
+LR,family,cutoff 112,13,shift_wks (label-free),family_excess_spearman,0.24725274725274726,0.415405119725538
+LR,family,cutoff 112,13,shift_wpsi (label-free),family_drift,-0.16597907283356692,0.5878670919242026
+LR,family,cutoff 112,13,shift_wpsi (label-free),family_excess_spearman,0.0,1.0
+LR,family,cutoff 112,13,shift_mean_ks (label-free),family_drift,0.09958744370014014,0.7461701482742363
+LR,family,cutoff 112,13,shift_mean_ks (label-free),family_excess_spearman,0.2912087912087912,0.33438585619752936
+LR,family,cutoff 112,13,top5_max_degenerate (label-free),family_drift,-0.13554957614741295,0.6588266531405128
+LR,family,cutoff 112,13,top5_max_degenerate (label-free),family_excess_spearman,-0.40659340659340654,0.16797834614789645
+LR,family,cutoff 112,13,"src-vs-tgt SHAP drift, same model (label-free)",family_drift,-0.1578218447541923,0.6065913009307959
+LR,family,cutoff 112,13,"src-vs-tgt SHAP drift, same model (label-free)",family_excess_spearman,-0.11373628975930468,0.7114078148662278
+XGB,feature,all cutoffs pooled,65,auc_drop (needs target labels),feature_drift,-0.0025786713286713287,0.9837350156369363
+XGB,feature,all cutoffs pooled,65,auc_drop (needs target labels),feature_excess_spearman,0.21569055944055943,0.08442175944602441
+XGB,feature,all cutoffs pooled,65,auc_drop_vs_src (needs labels),feature_drift,0.22430069930069932,0.07245556118489375
+XGB,feature,all cutoffs pooled,65,auc_drop_vs_src (needs labels),feature_excess_spearman,0.20939685314685313,0.09411688062971853
+XGB,feature,all cutoffs pooled,65,shift_wks (label-free),feature_drift,0.3860576923076923,0.0014921111013982812
+XGB,feature,all cutoffs pooled,65,shift_wks (label-free),feature_excess_spearman,0.4579545454545455,0.0001251495575949259
+XGB,feature,all cutoffs pooled,65,shift_wpsi (label-free),feature_drift,0.4343531468531468,0.00030019170702528017
+XGB,feature,all cutoffs pooled,65,shift_wpsi (label-free),feature_excess_spearman,0.4914335664335664,3.2254955025373196e-05
+XGB,feature,all cutoffs pooled,65,shift_mean_ks (label-free),feature_drift,0.30297202797202794,0.014159098005858902
+XGB,feature,all cutoffs pooled,65,shift_mean_ks (label-free),feature_excess_spearman,0.49226398601398597,3.11313989969396e-05
+XGB,feature,all cutoffs pooled,65,top5_max_degenerate (label-free),feature_drift,0.39207768415144667,0.001237554075116987
+XGB,feature,all cutoffs pooled,65,top5_max_degenerate (label-free),feature_excess_spearman,0.4195723368141171,0.0005031104354441471
+XGB,feature,all cutoffs pooled,65,"src-vs-tgt SHAP drift, same model (label-free)",feature_drift,0.1118006993006993,0.37526153309419275
+XGB,feature,all cutoffs pooled,65,"src-vs-tgt SHAP drift, same model (label-free)",feature_excess_spearman,0.34396853146853146,0.00502368368978209
+XGB,feature,cutoff 7,13,auc_drop (needs target labels),feature_drift,-0.48901098901098894,0.08991308230865641
+XGB,feature,cutoff 7,13,auc_drop (needs target labels),feature_excess_spearman,0.021978021978021976,0.9431862416608071
+XGB,feature,cutoff 7,13,auc_drop_vs_src (needs labels),feature_drift,0.049450549450549455,0.8725444288811492
+XGB,feature,cutoff 7,13,auc_drop_vs_src (needs labels),feature_excess_spearman,0.03846153846153846,0.9007243023389339
+XGB,feature,cutoff 7,13,shift_wks (label-free),feature_drift,0.4505494505494505,0.1223318876780357
+XGB,feature,cutoff 7,13,shift_wks (label-free),feature_excess_spearman,0.510989010989011,0.07432891414402142
+XGB,feature,cutoff 7,13,shift_wpsi (label-free),feature_drift,0.43956043956043955,0.13286024415692985
+XGB,feature,cutoff 7,13,shift_wpsi (label-free),feature_excess_spearman,0.4450549450549451,0.12752383613843685
+XGB,feature,cutoff 7,13,shift_mean_ks (label-free),feature_drift,0.21978021978021978,0.4706148514721425
+XGB,feature,cutoff 7,13,shift_mean_ks (label-free),feature_excess_spearman,0.42857142857142855,0.14397143468783608
+XGB,feature,cutoff 7,13,top5_max_degenerate (label-free),feature_drift,0.39560439560439564,0.18088916310494077
+XGB,feature,cutoff 7,13,top5_max_degenerate (label-free),feature_excess_spearman,0.16483516483516483,0.590478988652005
+XGB,feature,cutoff 7,13,"src-vs-tgt SHAP drift, same model (label-free)",feature_drift,0.45604395604395603,0.11728306543614493
+XGB,feature,cutoff 7,13,"src-vs-tgt SHAP drift, same model (label-free)",feature_excess_spearman,0.14835164835164835,0.6286094178894162
+XGB,feature,cutoff 14,13,auc_drop (needs target labels),feature_drift,-0.5934065934065934,0.03252444027009706
+XGB,feature,cutoff 14,13,auc_drop (needs target labels),feature_excess_spearman,-0.3021978021978022,0.3156083662499548
+XGB,feature,cutoff 14,13,auc_drop_vs_src (needs labels),feature_drift,0.04395604395604395,0.8866190227890784
+XGB,feature,cutoff 14,13,auc_drop_vs_src (needs labels),feature_excess_spearman,-0.15384615384615383,0.6157988686488813
+XGB,feature,cutoff 14,13,shift_wks (label-free),feature_drift,0.6538461538461539,0.015348516732105473
+XGB,feature,cutoff 14,13,shift_wks (label-free),feature_excess_spearman,0.6703296703296703,0.012166220319952023
+XGB,feature,cutoff 14,13,shift_wpsi (label-free),feature_drift,0.6208791208791209,0.02353816709643307
+XGB,feature,cutoff 14,13,shift_wpsi (label-free),feature_excess_spearman,0.6098901098901099,0.02687783442125201
+XGB,feature,cutoff 14,13,shift_mean_ks (label-free),feature_drift,0.46703296703296704,0.10760914039913913
+XGB,feature,cutoff 14,13,shift_mean_ks (label-free),feature_excess_spearman,0.5934065934065934,0.03252444027009706
+XGB,feature,cutoff 14,13,top5_max_degenerate (label-free),feature_drift,0.6098901098901099,0.02687783442125201
+XGB,feature,cutoff 14,13,top5_max_degenerate (label-free),feature_excess_spearman,0.1868131868131868,0.5411235235098939
+XGB,feature,cutoff 14,13,"src-vs-tgt SHAP drift, same model (label-free)",feature_drift,0.07142857142857142,0.8166280406760861
+XGB,feature,cutoff 14,13,"src-vs-tgt SHAP drift, same model (label-free)",feature_excess_spearman,0.521978021978022,0.06729171199351022
+XGB,feature,cutoff 28,13,auc_drop (needs target labels),feature_drift,-0.06593406593406594,0.830542385756094
+XGB,feature,cutoff 28,13,auc_drop (needs target labels),feature_excess_spearman,0.34615384615384615,0.24662526251007172
+XGB,feature,cutoff 28,13,auc_drop_vs_src (needs labels),feature_drift,0.3516483516483516,0.2386997053420338
+XGB,feature,cutoff 28,13,auc_drop_vs_src (needs labels),feature_excess_spearman,0.5164835164835164,0.0707490406749638
+XGB,feature,cutoff 28,13,shift_wks (label-free),feature_drift,0.5824175824175823,0.0367413343586543
+XGB,feature,cutoff 28,13,shift_wks (label-free),feature_excess_spearman,0.7692307692307693,0.0021122295993498794
+XGB,feature,cutoff 28,13,shift_wpsi (label-free),feature_drift,0.6813186813186813,0.010340409451492902
+XGB,feature,cutoff 28,13,shift_wpsi (label-free),feature_excess_spearman,0.8076923076923077,0.0008391600097274252
+XGB,feature,cutoff 28,13,shift_mean_ks (label-free),feature_drift,0.5054945054945055,0.07803332731018385
+XGB,feature,cutoff 28,13,shift_mean_ks (label-free),feature_excess_spearman,0.6758241758241759,0.011225245577668616
+XGB,feature,cutoff 28,13,top5_max_degenerate (label-free),feature_drift,0.3927957587628301,0.18428713660427415
+XGB,feature,cutoff 28,13,top5_max_degenerate (label-free),feature_excess_spearman,0.6936605952620192,0.00854615116172222
+XGB,feature,cutoff 28,13,"src-vs-tgt SHAP drift, same model (label-free)",feature_drift,0.2582417582417582,0.3942840173973614
+XGB,feature,cutoff 28,13,"src-vs-tgt SHAP drift, same model (label-free)",feature_excess_spearman,0.6373626373626374,0.019118113777463305
+XGB,feature,cutoff 56,13,auc_drop (needs target labels),feature_drift,-0.45604395604395603,0.11728306543614493
+XGB,feature,cutoff 56,13,auc_drop (needs target labels),feature_excess_spearman,-0.4505494505494505,0.1223318876780357
+XGB,feature,cutoff 56,13,auc_drop_vs_src (needs labels),feature_drift,0.005494505494505494,0.9857869107140622
+XGB,feature,cutoff 56,13,auc_drop_vs_src (needs labels),feature_excess_spearman,-0.11538461538461539,0.7073898735142603
+XGB,feature,cutoff 56,13,shift_wks (label-free),feature_drift,0.2802197802197803,0.35376363563367896
+XGB,feature,cutoff 56,13,shift_wks (label-free),feature_excess_spearman,0.2912087912087912,0.33438585619752936
+XGB,feature,cutoff 56,13,shift_wpsi (label-free),feature_drift,0.46703296703296704,0.10760914039913913
+XGB,feature,cutoff 56,13,shift_wpsi (label-free),feature_excess_spearman,0.48901098901098894,0.08991308230865641
+XGB,feature,cutoff 56,13,shift_mean_ks (label-free),feature_drift,0.3021978021978022,0.3156083662499548
+XGB,feature,cutoff 56,13,shift_mean_ks (label-free),feature_excess_spearman,0.510989010989011,0.07432891414402142
+XGB,feature,cutoff 56,13,top5_max_degenerate (label-free),feature_drift,0.5557089163595368,0.04862850622485092
+XGB,feature,cutoff 56,13,top5_max_degenerate (label-free),feature_excess_spearman,0.4924351288532529,0.08734910887870968
+XGB,feature,cutoff 56,13,"src-vs-tgt SHAP drift, same model (label-free)",feature_drift,-0.03296703296703297,0.9148564744875124
+XGB,feature,cutoff 56,13,"src-vs-tgt SHAP drift, same model (label-free)",feature_excess_spearman,0.41208791208791207,0.1617510527725265
+XGB,feature,cutoff 112,13,auc_drop (needs target labels),feature_drift,0.15384615384615383,0.6157988686488813
+XGB,feature,cutoff 112,13,auc_drop (needs target labels),feature_excess_spearman,0.3516483516483516,0.2386997053420338
+XGB,feature,cutoff 112,13,auc_drop_vs_src (needs labels),feature_drift,0.4450549450549451,0.12752383613843685
+XGB,feature,cutoff 112,13,auc_drop_vs_src (needs labels),feature_excess_spearman,0.2857142857142857,0.3440002182586698
+XGB,feature,cutoff 112,13,shift_wks (label-free),feature_drift,-0.20329670329670327,0.5053147342962485
+XGB,feature,cutoff 112,13,shift_wks (label-free),feature_excess_spearman,-0.2747252747252747,0.3636749816401782
+XGB,feature,cutoff 112,13,shift_wpsi (label-free),feature_drift,-0.40659340659340654,0.16797834614789645
+XGB,feature,cutoff 112,13,shift_wpsi (label-free),feature_excess_spearman,-0.5,0.08186423116569438
+XGB,feature,cutoff 112,13,shift_mean_ks (label-free),feature_drift,-0.39010989010989006,0.18757411613383787
+XGB,feature,cutoff 112,13,shift_mean_ks (label-free),feature_excess_spearman,-0.26373626373626374,0.38393651665067413
+XGB,feature,cutoff 112,13,top5_max_degenerate (label-free),feature_drift,0.010989010989010988,0.971577682777073
+XGB,feature,cutoff 112,13,top5_max_degenerate (label-free),feature_excess_spearman,-0.14835164835164835,0.6286094178894162
+XGB,feature,cutoff 112,13,"src-vs-tgt SHAP drift, same model (label-free)",feature_drift,-0.15934065934065936,0.6030877531318971
+XGB,feature,cutoff 112,13,"src-vs-tgt SHAP drift, same model (label-free)",feature_excess_spearman,-0.14835164835164835,0.6286094178894162
+XGB,family,all cutoffs pooled,65,auc_drop (needs target labels),family_drift,0.04550384770337952,0.7188980327581097
+XGB,family,all cutoffs pooled,65,auc_drop (needs target labels),family_excess_spearman,0.10316983359262724,0.41345532428166026
+XGB,family,all cutoffs pooled,65,auc_drop_vs_src (needs labels),family_drift,0.390295628786274,0.001308490606630325
+XGB,family,all cutoffs pooled,65,auc_drop_vs_src (needs labels),family_excess_spearman,0.33632360495457175,0.006158821629153441
+XGB,family,all cutoffs pooled,65,shift_wks (label-free),family_drift,0.16761349962120267,0.18201175302408942
+XGB,family,all cutoffs pooled,65,shift_wks (label-free),family_excess_spearman,0.3113233317857589,0.01159153483739411
+XGB,family,all cutoffs pooled,65,shift_wpsi (label-free),family_drift,0.11396754929845945,0.36601798474346453
+XGB,family,all cutoffs pooled,65,shift_wpsi (label-free),family_excess_spearman,0.259814901839175,0.03660963913850732
+XGB,family,all cutoffs pooled,65,shift_mean_ks (label-free),family_drift,-0.06211636353159744,0.6230331448414185
+XGB,family,all cutoffs pooled,65,shift_mean_ks (label-free),family_excess_spearman,0.10524590522814929,0.40406892285590496
+XGB,family,all cutoffs pooled,65,top5_max_degenerate (label-free),family_drift,0.3185129864551179,0.009714384915727821
+XGB,family,all cutoffs pooled,65,top5_max_degenerate (label-free),family_excess_spearman,0.34182766858629177,0.005321279332555226
+XGB,family,all cutoffs pooled,65,"src-vs-tgt SHAP drift, same model (label-free)",family_drift,0.41352336116082206,0.0006173556772821785
+XGB,family,all cutoffs pooled,65,"src-vs-tgt SHAP drift, same model (label-free)",family_excess_spearman,0.5014342348629978,2.0916101811584094e-05
+XGB,family,cutoff 7,13,auc_drop (needs target labels),family_drift,-0.3074898422217491,0.3067819302107008
+XGB,family,cutoff 7,13,auc_drop (needs target labels),family_excess_spearman,-0.20329670329670327,0.5053147342962485
+XGB,family,cutoff 7,13,auc_drop_vs_src (needs labels),family_drift,0.45984967395324633,0.11386921247386222
+XGB,family,cutoff 7,13,auc_drop_vs_src (needs labels),family_excess_spearman,0.3516483516483516,0.2386997053420338
+XGB,family,cutoff 7,13,shift_wks (label-free),family_drift,0.005540357517508992,0.9856683123917569
+XGB,family,cutoff 7,13,shift_wks (label-free),family_excess_spearman,-0.15384615384615383,0.6157988686488813
+XGB,family,cutoff 7,13,shift_wpsi (label-free),family_drift,-0.011080715035017985,0.9713405836005657
+XGB,family,cutoff 7,13,shift_wpsi (label-free),family_excess_spearman,-0.23076923076923078,0.4481273823153657
+XGB,family,cutoff 7,13,shift_mean_ks (label-free),family_drift,-0.27147751835794065,0.36960256818153664
+XGB,family,cutoff 7,13,shift_mean_ks (label-free),family_excess_spearman,-0.3021978021978022,0.3156083662499548
+XGB,family,cutoff 7,13,top5_max_degenerate (label-free),family_drift,0.5789673605796897,0.03814364507335854
+XGB,family,cutoff 7,13,top5_max_degenerate (label-free),family_excess_spearman,0.3186813186813187,0.28858316144472024
+XGB,family,cutoff 7,13,"src-vs-tgt SHAP drift, same model (label-free)",family_drift,0.38764656687327387,0.1906210631170819
+XGB,family,cutoff 7,13,"src-vs-tgt SHAP drift, same model (label-free)",family_excess_spearman,0.23957755499009495,0.43048837834611575
+XGB,family,cutoff 14,13,auc_drop (needs target labels),family_drift,-0.23691549953308072,0.4357824882858751
+XGB,family,cutoff 14,13,auc_drop (needs target labels),family_excess_spearman,-0.3681318681318681,0.21585718064938147
+XGB,family,cutoff 14,13,auc_drop_vs_src (needs labels),family_drift,0.45730201072664417,0.116147049352631
+XGB,family,cutoff 14,13,auc_drop_vs_src (needs labels),family_excess_spearman,0.4945054945054945,0.08582353060960757
+XGB,family,cutoff 14,13,shift_wks (label-free),family_drift,-0.1349867381060576,0.6601665535617018
+XGB,family,cutoff 14,13,shift_wks (label-free),family_excess_spearman,0.2857142857142857,0.3440002182586698
+XGB,family,cutoff 14,13,shift_wpsi (label-free),family_drift,-0.26721864482219565,0.37745281861570795
+XGB,family,cutoff 14,13,shift_wpsi (label-free),family_excess_spearman,0.03296703296703297,0.9148564744875124
+XGB,family,cutoff 14,13,shift_mean_ks (label-free),family_drift,-0.40771504570809236,0.1666948097009762
+XGB,family,cutoff 14,13,shift_mean_ks (label-free),family_excess_spearman,-0.06593406593406594,0.830542385756094
+XGB,family,cutoff 14,13,top5_max_degenerate (label-free),family_drift,0.3305797667903452,0.26993533781239765
+XGB,family,cutoff 14,13,top5_max_degenerate (label-free),family_excess_spearman,0.3736263736263736,0.20855405979520916
+XGB,family,cutoff 14,13,"src-vs-tgt SHAP drift, same model (label-free)",family_drift,0.6141084712238702,0.02555706729072334
+XGB,family,cutoff 14,13,"src-vs-tgt SHAP drift, same model (label-free)",family_excess_spearman,0.6400054792618028,0.01847159870847981
+XGB,family,cutoff 28,13,auc_drop (needs target labels),family_drift,0.19807446523706262,0.5165425215524554
+XGB,family,cutoff 28,13,auc_drop (needs target labels),family_excess_spearman,0.34065934065934067,0.2547064607541251
+XGB,family,cutoff 28,13,auc_drop_vs_src (needs labels),family_drift,0.22283377339169544,0.4643133492111078
+XGB,family,cutoff 28,13,auc_drop_vs_src (needs labels),family_excess_spearman,0.33516483516483514,0.26294314035936023
+XGB,family,cutoff 28,13,shift_wks (label-free),family_drift,0.39889996471352884,0.176953140216125
+XGB,family,cutoff 28,13,shift_wks (label-free),family_excess_spearman,0.5879120879120878,0.03458605834210791
+XGB,family,cutoff 28,13,shift_wpsi (label-free),family_drift,0.40165099895293255,0.17370959597151908
+XGB,family,cutoff 28,13,shift_wpsi (label-free),family_excess_spearman,0.5274725274725275,0.0639548914835548
+XGB,family,cutoff 28,13,shift_mean_ks (label-free),family_drift,0.24209101306752098,0.4255192840857562
+XGB,family,cutoff 28,13,shift_mean_ks (label-free),family_excess_spearman,0.4010989010989011,0.17435746494503296
+XGB,family,cutoff 28,13,top5_max_degenerate (label-free),family_drift,0.40588971789153355,0.16878683476881348
+XGB,family,cutoff 28,13,top5_max_degenerate (label-free),family_excess_spearman,0.6156586006140812,0.02508397120660784
+XGB,family,cutoff 28,13,"src-vs-tgt SHAP drift, same model (label-free)",family_drift,0.46961505149395405,0.10541703415629693
+XGB,family,cutoff 28,13,"src-vs-tgt SHAP drift, same model (label-free)",family_excess_spearman,0.5075905525179815,0.07660534777149673
+XGB,family,cutoff 56,13,auc_drop (needs target labels),family_drift,-0.3191199717708231,0.2878828323048209
+XGB,family,cutoff 56,13,auc_drop (needs target labels),family_excess_spearman,-0.21978021978021978,0.4706148514721425
+XGB,family,cutoff 56,13,auc_drop_vs_src (needs labels),family_drift,0.27235238970096115,0.3680007821522313
+XGB,family,cutoff 56,13,auc_drop_vs_src (needs labels),family_excess_spearman,0.34615384615384615,0.24662526251007172
+XGB,family,cutoff 56,13,shift_wks (label-free),family_drift,0.15955998588541154,0.6025824632276242
+XGB,family,cutoff 56,13,shift_wks (label-free),family_excess_spearman,0.5054945054945055,0.07803332731018385
+XGB,family,cutoff 56,13,shift_wpsi (label-free),family_drift,0.11004136957614588,0.7204393525218341
+XGB,family,cutoff 56,13,shift_wpsi (label-free),family_excess_spearman,0.521978021978022,0.06729171199351022
+XGB,family,cutoff 56,13,shift_mean_ks (label-free),family_drift,-0.11004136957614588,0.7204393525218341
+XGB,family,cutoff 56,13,shift_mean_ks (label-free),family_excess_spearman,0.15934065934065936,0.6030877531318971
+XGB,family,cutoff 56,13,top5_max_degenerate (label-free),family_drift,-0.14600550964187328,0.6341090486370874
+XGB,family,cutoff 56,13,top5_max_degenerate (label-free),family_excess_spearman,0.2558461842645392,0.39884018543922417
+XGB,family,cutoff 56,13,"src-vs-tgt SHAP drift, same model (label-free)",family_drift,0.28710815209852764,0.34154705867920926
+XGB,family,cutoff 56,13,"src-vs-tgt SHAP drift, same model (label-free)",family_excess_spearman,0.4764707465057733,0.09974421396909933
+XGB,family,cutoff 112,13,auc_drop (needs target labels),family_drift,0.054945054945054944,0.8585042942308734
+XGB,family,cutoff 112,13,auc_drop (needs target labels),family_excess_spearman,-0.14285714285714285,0.641516421586088
+XGB,family,cutoff 112,13,auc_drop_vs_src (needs labels),family_drift,0.45604395604395603,0.11728306543614493
+XGB,family,cutoff 112,13,auc_drop_vs_src (needs labels),family_excess_spearman,0.16483516483516483,0.590478988652005
+XGB,family,cutoff 112,13,shift_wks (label-free),family_drift,0.0879120879120879,0.775195408889122
+XGB,family,cutoff 112,13,shift_wks (label-free),family_excess_spearman,0.2802197802197803,0.35376363563367896
+XGB,family,cutoff 112,13,shift_wpsi (label-free),family_drift,-0.09890109890109891,0.7478683035983906
+XGB,family,cutoff 112,13,shift_wpsi (label-free),family_excess_spearman,0.18131868131868134,0.5532950092839335
+XGB,family,cutoff 112,13,shift_mean_ks (label-free),family_drift,-0.3021978021978022,0.3156083662499548
+XGB,family,cutoff 112,13,shift_mean_ks (label-free),family_excess_spearman,-0.06043956043956044,0.8445023706449681
+XGB,family,cutoff 112,13,top5_max_degenerate (label-free),family_drift,0.14285714285714285,0.641516421586088
+XGB,family,cutoff 112,13,top5_max_degenerate (label-free),family_excess_spearman,-0.15934065934065936,0.6030877531318971
+XGB,family,cutoff 112,13,"src-vs-tgt SHAP drift, same model (label-free)",family_drift,0.025214931660623663,0.9348336747983926
+XGB,family,cutoff 112,13,"src-vs-tgt SHAP drift, same model (label-free)",family_excess_spearman,0.2073227714317945,0.4967346163568433

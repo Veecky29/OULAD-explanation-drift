@@ -1,0 +1,9 @@
+matplotlib==3.11.2
+numpy==2.5.5
+pandas==3.1.1
+pyarrow==26.0.1
+scikit-learn==1.9.1
+scipy==1.18.1
+xgboost==3.4.1
+# Python 3.13. TreeSHAP is obtained via xgboost pred_contribs; the shap package is not required.
+# Transitive packages (joblib, pillow, threadpoolctl, nvidia-nccl, etc.) are omitted on purpose.

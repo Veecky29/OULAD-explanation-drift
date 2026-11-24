@@ -1,0 +1,224 @@
+     B  cutoff model             family     gran  n_real  n_null  real_mean  null_mean  null_sd  corrected  n_real_above_null2sd  mwu_p   bh_q
+0   30       7    LR               lomo  feature       7       7     -0.106      0.106    0.107     -0.212                     0  0.994  0.994
+1   30       7    LR               lomo   merged       7       7      0.011      0.077    0.042     -0.066                     1  0.896  0.941
+2   30       7    LR               lomo   family       7       7      0.069      0.058    0.095      0.011                     0  0.500  0.750
+3   30       7    LR  cross_year_module  feature       6       7      0.085      0.106    0.107     -0.021                     1  0.686  0.862
+4   30       7    LR  cross_year_module   merged       6       7      0.036      0.077    0.042     -0.041                     0  0.910  0.941
+5   30       7    LR  cross_year_module   family       6       7      0.020      0.058    0.095     -0.038                     0  0.883  0.941
+6   30       7   XGB               lomo  feature       7       7      0.115      0.055    0.042      0.060                     1  0.027  0.106
+7   30       7   XGB               lomo   merged       7       7      0.142      0.059    0.067      0.084                     1  0.009  0.058
+8   30       7   XGB               lomo   family       7       7      0.027     -0.023    0.043      0.050                     1  0.064  0.192
+9   30       7   XGB  cross_year_module  feature       6       7      0.054      0.055    0.042     -0.001                     0  0.582  0.812
+10  30       7   XGB  cross_year_module   merged       6       7      0.046      0.059    0.067     -0.013                     0  0.777  0.897
+11  30       7   XGB  cross_year_module   family       6       7      0.044     -0.023    0.043      0.067                     2  0.051  0.169
+12  30      14    LR               lomo  feature       7       7     -0.086      0.085    0.083     -0.171                     0  0.987  0.994
+13  30      14    LR               lomo   merged       7       7      0.037      0.064    0.040     -0.026                     0  0.645  0.841
+14  30      14    LR               lomo   family       7       7      0.101      0.069    0.125      0.032                     0  0.402  0.678
+15  30      14    LR  cross_year_module  feature       6       7      0.068      0.085    0.083     -0.017                     0  0.635  0.841
+16  30      14    LR  cross_year_module   merged       6       7      0.030      0.064    0.040     -0.034                     0  0.883  0.941
+17  30      14    LR  cross_year_module   family       6       7      0.135      0.069    0.125      0.066                     1  0.223  0.417
+18  30      14   XGB               lomo  feature       7       7      0.178      0.070    0.032      0.107                     6  0.000  0.006
+19  30      14   XGB               lomo   merged       7       7      0.191      0.055    0.030      0.136                     6  0.000  0.006
+20  30      14   XGB               lomo   family       7       7      0.090      0.018    0.062      0.072                     1  0.036  0.130
+21  30      14   XGB  cross_year_module  feature       6       7      0.063      0.070    0.032     -0.007                     0  0.777  0.897
+22  30      14   XGB  cross_year_module   merged       6       7      0.085      0.055    0.030      0.030                     2  0.147  0.340
+23  30      14   XGB  cross_year_module   family       6       7      0.082      0.018    0.062      0.064                     1  0.183  0.379
+24  30      28    LR               lomo  feature       7       7      0.042      0.099    0.097     -0.057                     0  0.809  0.915
+25  30      28    LR               lomo   merged       7       7      0.164      0.084    0.070      0.080                     2  0.082  0.225
+26  30      28    LR               lomo   family       7       7      0.456      0.069    0.097      0.387                     6  0.013  0.079
+27  30      28    LR  cross_year_module  feature       6       7      0.092      0.099    0.097     -0.008                     0  0.582  0.812
+28  30      28    LR  cross_year_module   merged       6       7      0.084      0.084    0.070     -0.000                     0  0.418  0.678
+29  30      28    LR  cross_year_module   family       6       7      0.157      0.069    0.097      0.088                     1  0.473  0.727
+30  30      28   XGB               lomo  feature       7       7      0.266      0.102    0.050      0.164                     5  0.001  0.012
+31  30      28   XGB               lomo   merged       7       7      0.391      0.101    0.053      0.290                     7  0.000  0.006
+32  30      28   XGB               lomo   family       7       7      0.462      0.059    0.079      0.403                     4  0.006  0.047
+33  30      28   XGB  cross_year_module  feature       6       7      0.090      0.102    0.050     -0.012                     0  0.527  0.772
+34  30      28   XGB  cross_year_module   merged       6       7      0.111      0.101    0.053      0.010                     0  0.473  0.727
+35  30      28   XGB  cross_year_module   family       6       7      0.127      0.059    0.079      0.068                     1  0.069  0.196
+36  30      56    LR               lomo  feature       7       7      0.050      0.103    0.041     -0.053                     0  0.841  0.935
+37  30      56    LR               lomo   merged       7       7      0.098      0.110    0.055     -0.012                     0  0.645  0.841
+38  30      56    LR               lomo   family       7       7      0.201      0.122    0.139      0.079                     0  0.130  0.311
+39  30      56    LR  cross_year_module  feature       6       7      0.192      0.103    0.041      0.089                     5  0.017  0.087
+40  30      56    LR  cross_year_module   merged       6       7      0.173      0.110    0.055      0.063                     2  0.037  0.130
+41  30      56    LR  cross_year_module   family       6       7      0.181      0.122    0.139      0.059                     1  0.777  0.897
+42  30      56   XGB               lomo  feature       7       7      0.222      0.145    0.081      0.077                     1  0.019  0.087
+43  30      56   XGB               lomo   merged       7       7      0.292      0.175    0.090      0.117                     2  0.027  0.106
+44  30      56   XGB               lomo   family       7       7      0.192      0.074    0.063      0.118                     2  0.104  0.261
+45  30      56   XGB  cross_year_module  feature       6       7      0.167      0.145    0.081      0.022                     0  0.183  0.379
+46  30      56   XGB  cross_year_module   merged       6       7      0.202      0.175    0.090      0.027                     0  0.267  0.485
+47  30      56   XGB  cross_year_module   family       6       7      0.135      0.074    0.063      0.061                     1  0.223  0.417
+48  30     112    LR               lomo  feature       7       7      0.054      0.090    0.096     -0.036                     0  0.690  0.862
+49  30     112    LR               lomo   merged       7       7      0.117      0.137    0.103     -0.021                     0  0.733  0.897
+50  30     112    LR               lomo   family       7       7      0.138      0.089    0.162      0.049                     0  0.310  0.547
+51  30     112    LR  cross_year_module  feature       6       7      0.144      0.090    0.096      0.053                     1  0.183  0.379
+52  30     112    LR  cross_year_module   merged       6       7      0.162      0.137    0.103      0.025                     0  0.223  0.417
+53  30     112    LR  cross_year_module   family       6       7      0.080      0.089    0.162     -0.008                     0  0.418  0.678
+54  30     112   XGB               lomo  feature       7       7      0.151      0.112    0.039      0.039                     1  0.064  0.192
+55  30     112   XGB               lomo   merged       7       7      0.212      0.126    0.034      0.086                     3  0.001  0.012
+56  30     112   XGB               lomo   family       7       7      0.072     -0.006    0.043      0.078                     1  0.009  0.058
+57  30     112   XGB  cross_year_module  feature       6       7      0.185      0.112    0.039      0.073                     3  0.017  0.087
+58  30     112   XGB  cross_year_module   merged       6       7      0.231      0.126    0.034      0.105                     4  0.001  0.012
+59  30     112   XGB  cross_year_module   family       6       7      0.103     -0.006    0.043      0.109                     3  0.090  0.236
+       B  cutoff model             family     gran variant  n_real  n_null  real_mean  null_mean  corrected  mwu_p  n_ci_lo_above_nullmean   bh_q
+0    100       7    LR               lomo  feature    boot       7       7     -0.072      0.127     -0.199  0.998                       0  0.998
+1    100       7    LR               lomo  feature   fixed       7       7     -0.100      0.093     -0.193  0.994                       0  0.998
+2    100       7    LR               lomo   merged    boot       7       7      0.017      0.109     -0.092  0.981                       0  0.998
+3    100       7    LR               lomo   merged   fixed       7       7      0.013      0.068     -0.055  0.896                       0  0.968
+4    100       7    LR               lomo   family    boot       7       7      0.063      0.070     -0.007  0.645                       0  0.815
+5    100       7    LR               lomo   family   fixed       7       7      0.060      0.062     -0.002  0.645                       0  0.815
+6    100       7    LR  cross_year_module  feature    boot       6       7      0.092      0.127     -0.035  0.777                       0  0.897
+7    100       7    LR  cross_year_module  feature   fixed       6       7      0.092      0.093     -0.001  0.582                       0  0.794
+8    100       7    LR  cross_year_module   merged    boot       6       7      0.074      0.109     -0.035  0.974                       0  0.998
+9    100       7    LR  cross_year_module   merged   fixed       6       7      0.042      0.068     -0.026  0.686                       0  0.828
+10   100       7    LR  cross_year_module   family    boot       6       7      0.026      0.070     -0.044  0.883                       0  0.968
+11   100       7    LR  cross_year_module   family   fixed       6       7      0.037      0.062     -0.025  0.686                       0  0.828
+12   100       7   XGB               lomo  feature    boot       7       7      0.107      0.079      0.028  0.082                       0  0.246
+13   100       7   XGB               lomo  feature   fixed       7       7      0.120      0.053      0.067  0.009                       3  0.070
+14   100       7   XGB               lomo   merged    boot       7       7      0.135      0.075      0.060  0.002                       1  0.041
+15   100       7   XGB               lomo   merged   fixed       7       7      0.142      0.062      0.080  0.006                       3  0.066
+16   100       7   XGB               lomo   family    boot       7       7      0.033      0.012      0.021  0.159                       0  0.334
+17   100       7   XGB               lomo   family   fixed       7       7      0.028     -0.028      0.057  0.036                       1  0.156
+18   100       7   XGB  cross_year_module  feature    boot       6       7      0.073      0.079     -0.006  0.635                       0  0.815
+19   100       7   XGB  cross_year_module  feature   fixed       6       7      0.050      0.053     -0.003  0.635                       0  0.815
+20   100       7   XGB  cross_year_module   merged    boot       6       7      0.061      0.075     -0.014  0.853                       0  0.965
+21   100       7   XGB  cross_year_module   merged   fixed       6       7      0.040      0.062     -0.022  0.817                       0  0.934
+22   100       7   XGB  cross_year_module   family    boot       6       7      0.071      0.012      0.058  0.017                       0  0.103
+23   100       7   XGB  cross_year_module   family   fixed       6       7      0.049     -0.028      0.077  0.051                       2  0.196
+24   100      14    LR               lomo  feature    boot       7       7     -0.047      0.124     -0.170  0.991                       0  0.998
+25   100      14    LR               lomo  feature   fixed       7       7     -0.062      0.071     -0.133  0.918                       0  0.983
+26   100      14    LR               lomo   merged    boot       7       7      0.056      0.120     -0.064  0.896                       0  0.968
+27   100      14    LR               lomo   merged   fixed       7       7      0.049      0.069     -0.020  0.549                       0  0.766
+28   100      14    LR               lomo   family    boot       7       7      0.102      0.076      0.026  0.310                       0  0.516
+29   100      14    LR               lomo   family   fixed       7       7      0.108      0.075      0.033  0.451                       0  0.676
+30   100      14    LR  cross_year_module  feature    boot       6       7      0.133      0.124      0.009  0.527                       0  0.762
+31   100      14    LR  cross_year_module  feature   fixed       6       7      0.080      0.071      0.009  0.473                       0  0.692
+32   100      14    LR  cross_year_module   merged    boot       6       7      0.100      0.120     -0.020  0.686                       0  0.828
+33   100      14    LR  cross_year_module   merged   fixed       6       7      0.043      0.069     -0.026  0.883                       0  0.968
+34   100      14    LR  cross_year_module   family    boot       6       7      0.122      0.076      0.046  0.582                       0  0.794
+35   100      14    LR  cross_year_module   family   fixed       6       7      0.149      0.075      0.074  0.147                       0  0.316
+36   100      14   XGB               lomo  feature    boot       7       7      0.137      0.100      0.037  0.027                       1  0.118
+37   100      14   XGB               lomo  feature   fixed       7       7      0.178      0.072      0.105  0.000                       3  0.009
+38   100      14   XGB               lomo   merged    boot       7       7      0.165      0.087      0.079  0.003                       2  0.052
+39   100      14   XGB               lomo   merged   fixed       7       7      0.193      0.061      0.131  0.000                       4  0.009
+40   100      14   XGB               lomo   family    boot       7       7      0.057      0.018      0.039  0.064                       0  0.226
+41   100      14   XGB               lomo   family   fixed       7       7      0.086      0.015      0.070  0.130                       1  0.299
+42   100      14   XGB  cross_year_module  feature    boot       6       7      0.081      0.100     -0.019  0.983                       0  0.998
+43   100      14   XGB  cross_year_module  feature   fixed       6       7      0.069      0.072     -0.003  0.777                       0  0.897
+44   100      14   XGB  cross_year_module   merged    boot       6       7      0.093      0.087      0.006  0.314                       0  0.516
+45   100      14   XGB  cross_year_module   merged   fixed       6       7      0.081      0.061      0.019  0.267                       0  0.459
+46   100      14   XGB  cross_year_module   family    boot       6       7      0.103      0.018      0.085  0.007                       1  0.070
+47   100      14   XGB  cross_year_module   family   fixed       6       7      0.082      0.015      0.066  0.183                       1  0.372
+48   100      28    LR               lomo  feature    boot       7       7      0.054      0.148     -0.094  0.870                       0  0.968
+49   100      28    LR               lomo  feature   fixed       7       7      0.039      0.090     -0.051  0.772                       0  0.897
+50   100      28    LR               lomo   merged    boot       7       7      0.166      0.132      0.034  0.191                       1  0.383
+51   100      28    LR               lomo   merged   fixed       7       7      0.163      0.077      0.087  0.082                       1  0.246
+52   100      28    LR               lomo   family    boot       7       7      0.442      0.103      0.339  0.013                       4  0.083
+53   100      28    LR               lomo   family   fixed       7       7      0.452      0.074      0.378  0.013                       4  0.083
+54   100      28    LR  cross_year_module  feature    boot       6       7      0.168      0.148      0.020  0.418                       0  0.635
+55   100      28    LR  cross_year_module  feature   fixed       6       7      0.119      0.090      0.029  0.418                       0  0.635
+56   100      28    LR  cross_year_module   merged    boot       6       7      0.150      0.132      0.019  0.267                       0  0.459
+57   100      28    LR  cross_year_module   merged   fixed       6       7      0.122      0.077      0.045  0.147                       0  0.316
+58   100      28    LR  cross_year_module   family    boot       6       7      0.227      0.103      0.124  0.418                       1  0.635
+59   100      28    LR  cross_year_module   family   fixed       6       7      0.160      0.074      0.085  0.635                       1  0.815
+60   100      28   XGB               lomo  feature    boot       7       7      0.234      0.124      0.110  0.003                       2  0.052
+61   100      28   XGB               lomo  feature   fixed       7       7      0.264      0.097      0.167  0.001                       5  0.014
+62   100      28   XGB               lomo   merged    boot       7       7      0.345      0.112      0.234  0.000                       7  0.009
+63   100      28   XGB               lomo   merged   fixed       7       7      0.395      0.092      0.303  0.000                       7  0.009
+64   100      28   XGB               lomo   family    boot       7       7      0.410      0.070      0.340  0.009                       3  0.070
+65   100      28   XGB               lomo   family   fixed       7       7      0.464      0.065      0.399  0.009                       4  0.070
+66   100      28   XGB  cross_year_module  feature    boot       6       7      0.120      0.124     -0.004  0.473                       0  0.692
+67   100      28   XGB  cross_year_module  feature   fixed       6       7      0.110      0.097      0.014  0.223                       0  0.411
+68   100      28   XGB  cross_year_module   merged    boot       6       7      0.135      0.112      0.024  0.267                       0  0.459
+69   100      28   XGB  cross_year_module   merged   fixed       6       7      0.130      0.092      0.038  0.147                       1  0.316
+70   100      28   XGB  cross_year_module   family    boot       6       7      0.137      0.070      0.067  0.051                       1  0.196
+71   100      28   XGB  cross_year_module   family   fixed       6       7      0.142      0.065      0.077  0.069                       1  0.236
+72   100      56    LR               lomo  feature    boot       7       7      0.072      0.135     -0.064  0.981                       0  0.998
+73   100      56    LR               lomo  feature   fixed       7       7      0.040      0.109     -0.069  0.951                       0  0.998
+74   100      56    LR               lomo   merged    boot       7       7      0.119      0.138     -0.018  0.690                       0  0.828
+75   100      56    LR               lomo   merged   fixed       7       7      0.104      0.110     -0.006  0.549                       0  0.766
+76   100      56    LR               lomo   family    boot       7       7      0.195      0.077      0.118  0.064                       1  0.226
+77   100      56    LR               lomo   family   fixed       7       7      0.181      0.090      0.091  0.130                       1  0.299
+78   100      56    LR  cross_year_module  feature    boot       6       7      0.166      0.135      0.030  0.147                       0  0.316
+79   100      56    LR  cross_year_module  feature   fixed       6       7      0.163      0.109      0.054  0.090                       0  0.246
+80   100      56    LR  cross_year_module   merged    boot       6       7      0.175      0.138      0.038  0.117                       0  0.293
+81   100      56    LR  cross_year_module   merged   fixed       6       7      0.179      0.110      0.069  0.026                       0  0.118
+82   100      56    LR  cross_year_module   family    boot       6       7      0.195      0.077      0.118  0.223                       1  0.411
+83   100      56    LR  cross_year_module   family   fixed       6       7      0.190      0.090      0.100  0.418                       1  0.635
+84   100      56   XGB               lomo  feature    boot       7       7      0.200      0.136      0.063  0.049                       1  0.196
+85   100      56   XGB               lomo  feature   fixed       7       7      0.227      0.143      0.084  0.019                       2  0.103
+86   100      56   XGB               lomo   merged    boot       7       7      0.271      0.158      0.113  0.013                       1  0.083
+87   100      56   XGB               lomo   merged   fixed       7       7      0.297      0.176      0.121  0.019                       2  0.103
+88   100      56   XGB               lomo   family    boot       7       7      0.187      0.077      0.110  0.064                       1  0.226
+89   100      56   XGB               lomo   family   fixed       7       7      0.189      0.076      0.113  0.082                       1  0.246
+90   100      56   XGB  cross_year_module  feature    boot       6       7      0.164      0.136      0.028  0.183                       0  0.372
+91   100      56   XGB  cross_year_module  feature   fixed       6       7      0.158      0.143      0.016  0.267                       0  0.459
+92   100      56   XGB  cross_year_module   merged    boot       6       7      0.194      0.158      0.036  0.223                       0  0.411
+93   100      56   XGB  cross_year_module   merged   fixed       6       7      0.191      0.176      0.014  0.418                       0  0.635
+94   100      56   XGB  cross_year_module   family    boot       6       7      0.144      0.077      0.066  0.090                       0  0.246
+95   100      56   XGB  cross_year_module   family   fixed       6       7      0.140      0.076      0.064  0.223                       1  0.411
+96   100     112    LR               lomo  feature    boot       7       7      0.085      0.112     -0.028  0.690                       0  0.828
+97   100     112    LR               lomo  feature   fixed       7       7      0.068      0.082     -0.013  0.549                       1  0.766
+98   100     112    LR               lomo   merged    boot       7       7      0.117      0.137     -0.020  0.598                       0  0.806
+99   100     112    LR               lomo   merged   fixed       7       7      0.111      0.127     -0.016  0.645                       0  0.815
+100  100     112    LR               lomo   family    boot       7       7      0.159      0.094      0.066  0.104                       0  0.278
+101  100     112    LR               lomo   family   fixed       7       7      0.143      0.086      0.056  0.267                       1  0.459
+102  100     112    LR  cross_year_module  feature    boot       6       7      0.170      0.112      0.058  0.090                       0  0.246
+103  100     112    LR  cross_year_module  feature   fixed       6       7      0.167      0.082      0.086  0.117                       0  0.293
+104  100     112    LR  cross_year_module   merged    boot       6       7      0.178      0.137      0.041  0.090                       0  0.246
+105  100     112    LR  cross_year_module   merged   fixed       6       7      0.169      0.127      0.041  0.117                       0  0.293
+106  100     112    LR  cross_year_module   family    boot       6       7      0.126      0.094      0.033  0.223                       0  0.411
+107  100     112    LR  cross_year_module   family   fixed       6       7      0.091      0.086      0.004  0.314                       0  0.516
+108  100     112   XGB               lomo  feature    boot       7       7      0.121      0.129     -0.008  0.733                       0  0.870
+109  100     112   XGB               lomo  feature   fixed       7       7      0.152      0.111      0.042  0.082                       1  0.246
+110  100     112   XGB               lomo   merged    boot       7       7      0.179      0.148      0.031  0.130                       0  0.299
+111  100     112   XGB               lomo   merged   fixed       7       7      0.213      0.125      0.089  0.009                       2  0.070
+112  100     112   XGB               lomo   family    boot       7       7      0.052      0.027      0.025  0.130                       0  0.299
+113  100     112   XGB               lomo   family   fixed       7       7      0.070     -0.005      0.074  0.027                       1  0.118
+114  100     112   XGB  cross_year_module  feature    boot       6       7      0.192      0.129      0.063  0.026                       0  0.118
+115  100     112   XGB  cross_year_module  feature   fixed       6       7      0.179      0.111      0.068  0.026                       0  0.118
+116  100     112   XGB  cross_year_module   merged    boot       6       7      0.230      0.148      0.081  0.011                       0  0.083
+117  100     112   XGB  cross_year_module   merged   fixed       6       7      0.218      0.125      0.093  0.004                       0  0.054
+118  100     112   XGB  cross_year_module   family    boot       6       7      0.089      0.027      0.062  0.418                       0  0.635
+119  100     112   XGB  cross_year_module   family   fixed       6       7      0.094     -0.005      0.099  0.090                       3  0.246
+    tp  fp  fn  tn  precision  recall  specificity  bal_acc model        label                                            rule   n  base_rate  null_flags  n_null  null_false_alarm_rate
+0    2   3   7  53      0.400   0.222        0.946    0.584    LR   lab_family                    v1 absolute (phase 2, fixed)  65      0.138           2      35                  0.057
+1    2   5   7  51      0.286   0.222        0.911    0.566    LR   lab_family             v2 source-relative (fixed a priori)  65      0.138           0      35                  0.000
+2    6  31   3  25      0.162   0.667        0.446    0.557    LR   lab_family                 v2 score, nested-LOMO threshold  65      0.138           3      35                  0.086
+3    4   5   5  51      0.444   0.444        0.911    0.678    LR   lab_family  AUC drop, nested-LOMO threshold (needs labels)  65      0.138           0      35                  0.000
+4    0   5   7  53      0.000   0.000        0.914    0.457    LR  lab_feature                    v1 absolute (phase 2, fixed)  65      0.108           2      35                  0.057
+5    0   7   7  51      0.000   0.000        0.879    0.440    LR  lab_feature             v2 source-relative (fixed a priori)  65      0.108           0      35                  0.000
+6    6  53   1   5      0.102   0.857        0.086    0.472    LR  lab_feature                 v2 score, nested-LOMO threshold  65      0.108          19      35                  0.543
+7    1  17   6  41      0.056   0.143        0.707    0.425    LR  lab_feature  AUC drop, nested-LOMO threshold (needs labels)  65      0.108           1      35                  0.029
+8    8   6   9  42      0.571   0.471        0.875    0.673   XGB   lab_family                    v1 absolute (phase 2, fixed)  65      0.262           1      35                  0.029
+9    7   6  10  42      0.538   0.412        0.875    0.643   XGB   lab_family             v2 source-relative (fixed a priori)  65      0.262           0      35                  0.000
+10   6   5  11  43      0.545   0.353        0.896    0.624   XGB   lab_family                 v2 score, nested-LOMO threshold  65      0.262           0      35                  0.000
+11   5  21  12  27      0.192   0.294        0.562    0.428   XGB   lab_family  AUC drop, nested-LOMO threshold (needs labels)  65      0.262           1      35                  0.029
+12   6   8  11  40      0.429   0.353        0.833    0.593   XGB  lab_feature                    v1 absolute (phase 2, fixed)  65      0.262           1      35                  0.029
+13   6   7  11  41      0.462   0.353        0.854    0.604   XGB  lab_feature             v2 source-relative (fixed a priori)  65      0.262           0      35                  0.000
+14   6   6  11  42      0.500   0.353        0.875    0.614   XGB  lab_feature                 v2 score, nested-LOMO threshold  65      0.262           0      35                  0.000
+15  13  33   4  15      0.283   0.765        0.312    0.539   XGB  lab_feature  AUC drop, nested-LOMO threshold (needs labels)  65      0.262          22      35                  0.629
+    cutoff model     gran  n_real  n_null  transfer_auc  native_auc  auc_drop  null_transfer_auc  real_mean  null_mean  corrected  mwu_p  trust_v1_real  trust_v2_real  trust_v1_null  trust_v2_null   bh_q
+0       10    LR  feature       5       5         0.675       0.727     0.053              0.725      0.272      0.157      0.116  0.155              0              0              0              0  0.177
+1       10    LR   merged       5       5         0.675       0.727     0.053              0.725      0.171      0.053      0.118  0.004              0              0              0              0  0.011
+2       10    LR   family       5       5         0.675       0.727     0.053              0.725      0.214      0.124      0.090  0.274              0              0              0              0  0.286
+3       10   XGB  feature       5       5         0.685       0.811     0.126              0.796      0.192      0.068      0.124  0.004              3              0              0              0  0.011
+4       10   XGB   merged       5       5         0.685       0.811     0.126              0.796      0.227      0.067      0.160  0.008              3              0              0              0  0.016
+5       10   XGB   family       5       5         0.685       0.811     0.126              0.796      0.209      0.088      0.120  0.111              3              0              0              0  0.133
+6       25    LR  feature       5       5         0.815       0.840     0.025              0.835      0.247      0.157      0.090  0.111              0              0              0              0  0.133
+7       25    LR   merged       5       5         0.815       0.840     0.025              0.835      0.124      0.053      0.072  0.004              0              0              0              0  0.011
+8       25    LR   family       5       5         0.815       0.840     0.025              0.835      0.136     -0.027      0.163  0.008              0              0              0              0  0.016
+9       25   XGB  feature       5       5         0.820       0.891     0.071              0.880      0.163      0.087      0.076  0.004              0              0              0              0  0.011
+10      25   XGB   merged       5       5         0.820       0.891     0.071              0.880      0.225      0.039      0.185  0.004              0              0              0              0  0.011
+11      25   XGB   family       5       5         0.820       0.891     0.071              0.880      0.224      0.082      0.142  0.111              0              0              0              0  0.133
+12      33    LR  feature       5       5         0.867       0.891     0.024              0.886      0.255      0.171      0.084  0.111              0              0              0              0  0.133
+13      33    LR   merged       5       5         0.867       0.891     0.024              0.886      0.163      0.062      0.101  0.004              0              0              0              0  0.011
+14      33    LR   family       5       5         0.867       0.891     0.024              0.886      0.099      0.021      0.078  0.048              0              0              0              0  0.076
+15      33   XGB  feature       5       5         0.872       0.931     0.058              0.923      0.188      0.102      0.086  0.004              0              0              0              0  0.011
+16      33   XGB   merged       5       5         0.872       0.931     0.058              0.923      0.167      0.041      0.126  0.004              0              0              0              0  0.011
+17      33   XGB   family       5       5         0.872       0.931     0.058              0.923      0.112      0.054      0.059  0.111              0              0              0              0  0.133
+18      50    LR  feature       5       5         0.925       0.938     0.012              0.934      0.243      0.209      0.035  0.210              0              0              0              0  0.229
+19      50    LR   merged       5       5         0.925       0.938     0.012              0.934      0.195      0.057      0.138  0.016              0              0              0              0  0.029
+20      50    LR   family       5       5         0.925       0.938     0.012              0.934      0.307      0.014      0.293  0.004              0              0              0              0  0.011
+21      50   XGB  feature       5       5         0.936       0.970     0.034              0.965      0.184      0.104      0.080  0.028              0              0              0              0  0.048
+22      50   XGB   merged       5       5         0.936       0.970     0.034              0.965      0.145      0.049      0.096  0.008              0              0              0              0  0.016
+23      50   XGB   family       5       5         0.936       0.970     0.034              0.965      0.144      0.104      0.040  0.421              0              0              0              0  0.421

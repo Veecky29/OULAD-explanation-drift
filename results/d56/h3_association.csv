@@ -1,0 +1,37 @@
+model,pairs,n,drop,drift,spearman_r,p
+LR,LOMO + cross-year per module (primary),13,auc_drop,1-tgtVSnative_spearman,0.1758241758241758,0.5655798619595344
+LR,LOMO + cross-year per module (primary),13,auc_drop_vs_src,1-tgtVSnative_spearman,-0.08241758241758242,0.788950927847518
+LR,LOMO + cross-year per module (primary),13,auc_drop,1-srcVStgt_spearman,0.1868131868131868,0.5411235235098939
+LR,LOMO + cross-year per module (primary),13,auc_drop_vs_src,1-srcVStgt_spearman,-0.010989010989010988,0.971577682777073
+LR,LOMO + cross-year per module (primary),13,auc_drop,1-perm_tgtVSnative_spearman,0.23076923076923078,0.4481273823153657
+LR,LOMO + cross-year per module (primary),13,auc_drop_vs_src,1-perm_tgtVSnative_spearman,-0.21428571428571427,0.4820544547023681
+LR,LOMO only,7,auc_drop,1-tgtVSnative_spearman,-0.07142857142857144,0.879048193148154
+LR,LOMO only,7,auc_drop_vs_src,1-tgtVSnative_spearman,-0.28571428571428575,0.5345092286010406
+LR,LOMO only,7,auc_drop,1-srcVStgt_spearman,0.3214285714285715,0.48207203829967776
+LR,LOMO only,7,auc_drop_vs_src,1-srcVStgt_spearman,-0.5,0.2531699951003227
+LR,LOMO only,7,auc_drop,1-perm_tgtVSnative_spearman,0.21428571428571433,0.6445115810207203
+LR,LOMO only,7,auc_drop_vs_src,1-perm_tgtVSnative_spearman,-0.3571428571428572,0.431611352038328
+LR,all module-level pairs,27,auc_drop,1-tgtVSnative_spearman,0.24396946564885497,0.22006640272576883
+LR,all module-level pairs,27,auc_drop_vs_src,1-tgtVSnative_spearman,0.28916030534351145,0.1434985907330319
+LR,all module-level pairs,27,auc_drop,1-srcVStgt_spearman,0.013129770992366412,0.9481750975128768
+LR,all module-level pairs,27,auc_drop_vs_src,1-srcVStgt_spearman,0.22503816793893128,0.25908678626337955
+LR,all module-level pairs,27,auc_drop,1-perm_tgtVSnative_spearman,0.3545038167938931,0.06962646946569528
+LR,all module-level pairs,27,auc_drop_vs_src,1-perm_tgtVSnative_spearman,0.2299236641221374,0.24861299078855106
+XGB,LOMO + cross-year per module (primary),13,auc_drop,1-tgtVSnative_spearman,-0.5439560439560439,0.05464653454086549
+XGB,LOMO + cross-year per module (primary),13,auc_drop_vs_src,1-tgtVSnative_spearman,-0.1758241758241758,0.5655798619595344
+XGB,LOMO + cross-year per module (primary),13,auc_drop,1-srcVStgt_spearman,0.20329670329670327,0.5053147342962485
+XGB,LOMO + cross-year per module (primary),13,auc_drop_vs_src,1-srcVStgt_spearman,0.11538461538461539,0.7073898735142603
+XGB,LOMO + cross-year per module (primary),13,auc_drop,1-perm_tgtVSnative_spearman,-0.14835164835164835,0.6286094178894162
+XGB,LOMO + cross-year per module (primary),13,auc_drop_vs_src,1-perm_tgtVSnative_spearman,0.0,1.0
+XGB,LOMO only,7,auc_drop,1-tgtVSnative_spearman,-0.6071428571428572,0.14823116148116164
+XGB,LOMO only,7,auc_drop_vs_src,1-tgtVSnative_spearman,0.7142857142857144,0.07134356146753766
+XGB,LOMO only,7,auc_drop,1-srcVStgt_spearman,-0.10714285714285716,0.8191508555699912
+XGB,LOMO only,7,auc_drop_vs_src,1-srcVStgt_spearman,-0.5357142857142858,0.21521745567801298
+XGB,LOMO only,7,auc_drop,1-perm_tgtVSnative_spearman,-0.3571428571428572,0.431611352038328
+XGB,LOMO only,7,auc_drop_vs_src,1-perm_tgtVSnative_spearman,-0.07142857142857144,0.879048193148154
+XGB,all module-level pairs,27,auc_drop,1-tgtVSnative_spearman,-0.48335877862595417,0.010644672438355658
+XGB,all module-level pairs,27,auc_drop_vs_src,1-tgtVSnative_spearman,-0.041832061068702284,0.8358765768726637
+XGB,all module-level pairs,27,auc_drop,1-srcVStgt_spearman,0.030229007633587785,0.8810203729091779
+XGB,all module-level pairs,27,auc_drop_vs_src,1-srcVStgt_spearman,0.223206106870229,0.2630873084295936
+XGB,all module-level pairs,27,auc_drop,1-perm_tgtVSnative_spearman,-0.22809160305343512,0.2525075833946298
+XGB,all module-level pairs,27,auc_drop_vs_src,1-perm_tgtVSnative_spearman,-0.1230534351145038,0.5408820084659173

@@ -1,0 +1,27 @@
+# Virtualenv and Python caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Raw datasets and large intermediate caches (download separately; see README)
+data/*
+!data/README.md
+*.parquet
+*.zip
+oulad_pilot.zip
+
+# External Riestra-González Moodle data if checked out beside this repo
+/external/
+riestra-raw/
+
+# Logs from local installs / downloads
+pip.log
+data/dl.log
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/

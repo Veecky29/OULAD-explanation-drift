@@ -1,0 +1,95 @@
+== LR cutoff 28
+  Y13->Y14 pooled              src 0.780 transfer 0.735 native 0.752 rho(tgt,nat) 0.56
+  AAA 13->14                   src 0.724 transfer 0.590 native 0.624 rho(tgt,nat) 0.54
+  BBB 13->14                   src 0.794 transfer 0.666 native 0.722 rho(tgt,nat) 0.17
+  DDD 13->14                   src 0.809 transfer 0.792 native 0.794 rho(tgt,nat) 0.55
+  EEE 13->14                   src 0.804 transfer 0.760 native 0.772 rho(tgt,nat) 0.36
+  FFF 13->14                   src 0.786 transfer 0.800 native 0.795 rho(tgt,nat) 0.48
+  GGG 13->14                   src 0.631 transfer 0.651 native 0.695 rho(tgt,nat) 0.58
+  AAA SSD(2013J)->2014J        src 0.763 transfer 0.652 native 0.624 rho(tgt,nat) 0.29
+  AAA SCD->2014J               src 0.724 transfer 0.590 native 0.624 rho(tgt,nat) 0.54
+  BBB SSD(2013J)->2014J        src 0.763 transfer 0.614 native 0.703 rho(tgt,nat) 0.42
+  BBB SCD->2014J               src 0.776 transfer 0.639 native 0.703 rho(tgt,nat) 0.35
+  CCC SSD(2013J)->2014J        src 0.763 transfer 0.787 native 0.811 rho(tgt,nat) 0.60
+  CCC SCD->2014J               src 0.800 transfer 0.806 native 0.811 rho(tgt,nat) 0.33
+  DDD SSD(2013J)->2014J        src 0.763 transfer 0.767 native 0.785 rho(tgt,nat) 0.59
+  DDD SCD->2014J               src 0.832 transfer 0.780 native 0.785 rho(tgt,nat) 0.35
+  EEE SSD(2013J)->2014J        src 0.763 transfer 0.769 native 0.784 rho(tgt,nat) 0.55
+  EEE SCD->2014J               src 0.784 transfer 0.750 native 0.784 rho(tgt,nat) 0.14
+  FFF SSD(2013J)->2014J        src 0.763 transfer 0.791 native 0.793 rho(tgt,nat) 0.56
+  FFF SCD->2014J               src 0.810 transfer 0.802 native 0.793 rho(tgt,nat) 0.59
+  GGG SSD(2013J)->2014J        src 0.763 transfer 0.671 native 0.669 rho(tgt,nat) 0.27
+  GGG SCD->2014J               src 0.646 transfer 0.672 native 0.669 rho(tgt,nat) 0.27
+  LOMO AAA                     src 0.749 transfer 0.679 native 0.664 rho(tgt,nat) 0.59
+  LOMO BBB                     src 0.781 transfer 0.688 native 0.750 rho(tgt,nat) 0.49
+  LOMO CCC                     src 0.758 transfer 0.769 native 0.824 rho(tgt,nat) 0.72
+  LOMO DDD                     src 0.758 transfer 0.770 native 0.819 rho(tgt,nat) 0.57
+  LOMO EEE                     src 0.753 transfer 0.759 native 0.776 rho(tgt,nat) 0.53
+  LOMO FFF                     src 0.742 transfer 0.781 native 0.799 rho(tgt,nat) 0.42
+  LOMO GGG                     src 0.775 transfer 0.668 native 0.676 rho(tgt,nat) 0.58
+== XGB cutoff 28
+  Y13->Y14 pooled              src 0.790 transfer 0.749 native 0.774 rho(tgt,nat) 0.81
+  AAA 13->14                   src 0.622 transfer 0.659 native 0.617 rho(tgt,nat) 0.57
+  BBB 13->14                   src 0.786 transfer 0.677 native 0.704 rho(tgt,nat) 0.71
+  DDD 13->14                   src 0.783 transfer 0.772 native 0.774 rho(tgt,nat) 0.72
+  EEE 13->14                   src 0.778 transfer 0.755 native 0.764 rho(tgt,nat) 0.61
+  FFF 13->14                   src 0.757 transfer 0.773 native 0.777 rho(tgt,nat) 0.77
+  GGG 13->14                   src 0.602 transfer 0.622 native 0.657 rho(tgt,nat) 0.73
+  AAA SSD(2013J)->2014J        src 0.746 transfer 0.644 native 0.617 rho(tgt,nat) 0.49
+  AAA SCD->2014J               src 0.622 transfer 0.659 native 0.617 rho(tgt,nat) 0.57
+  BBB SSD(2013J)->2014J        src 0.746 transfer 0.591 native 0.669 rho(tgt,nat) 0.65
+  BBB SCD->2014J               src 0.776 transfer 0.657 native 0.669 rho(tgt,nat) 0.65
+  CCC SSD(2013J)->2014J        src 0.746 transfer 0.753 native 0.786 rho(tgt,nat) 0.65
+  CCC SCD->2014J               src 0.787 transfer 0.776 native 0.786 rho(tgt,nat) 0.75
+  DDD SSD(2013J)->2014J        src 0.746 transfer 0.774 native 0.761 rho(tgt,nat) 0.68
+  DDD SCD->2014J               src 0.821 transfer 0.762 native 0.761 rho(tgt,nat) 0.73
+  EEE SSD(2013J)->2014J        src 0.746 transfer 0.782 native 0.777 rho(tgt,nat) 0.56
+  EEE SCD->2014J               src 0.773 transfer 0.751 native 0.777 rho(tgt,nat) 0.54
+  FFF SSD(2013J)->2014J        src 0.746 transfer 0.771 native 0.778 rho(tgt,nat) 0.71
+  FFF SCD->2014J               src 0.798 transfer 0.774 native 0.778 rho(tgt,nat) 0.63
+  GGG SSD(2013J)->2014J        src 0.746 transfer 0.648 native 0.624 rho(tgt,nat) 0.59
+  GGG SCD->2014J               src 0.605 transfer 0.653 native 0.624 rho(tgt,nat) 0.79
+  LOMO AAA                     src 0.779 transfer 0.709 native 0.665 rho(tgt,nat) 0.54
+  LOMO BBB                     src 0.793 transfer 0.696 native 0.753 rho(tgt,nat) 0.57
+  LOMO CCC                     src 0.775 transfer 0.791 native 0.808 rho(tgt,nat) 0.62
+  LOMO DDD                     src 0.776 transfer 0.787 native 0.804 rho(tgt,nat) 0.66
+  LOMO EEE                     src 0.784 transfer 0.721 native 0.770 rho(tgt,nat) 0.51
+  LOMO FFF                     src 0.782 transfer 0.777 native 0.785 rho(tgt,nat) 0.69
+  LOMO GGG                     src 0.795 transfer 0.637 native 0.634 rho(tgt,nat) 0.55
+   model                                   pairs   n             drop                        drift  spearman_r      p
+0     LR  LOMO + cross-year per module (primary)  13         auc_drop       1-tgtVSnative_spearman       0.143  0.642
+1     LR  LOMO + cross-year per module (primary)  13  auc_drop_vs_src       1-tgtVSnative_spearman       0.060  0.845
+2     LR  LOMO + cross-year per module (primary)  13         auc_drop          1-srcVStgt_spearman       0.247  0.415
+3     LR  LOMO + cross-year per module (primary)  13  auc_drop_vs_src          1-srcVStgt_spearman       0.066  0.831
+4     LR  LOMO + cross-year per module (primary)  13         auc_drop  1-perm_tgtVSnative_spearman       0.313  0.297
+5     LR  LOMO + cross-year per module (primary)  13  auc_drop_vs_src  1-perm_tgtVSnative_spearman       0.258  0.394
+6     LR                               LOMO only   7         auc_drop       1-tgtVSnative_spearman       0.250  0.589
+7     LR                               LOMO only   7  auc_drop_vs_src       1-tgtVSnative_spearman      -0.250  0.589
+8     LR                               LOMO only   7         auc_drop          1-srcVStgt_spearman       0.000  1.000
+9     LR                               LOMO only   7  auc_drop_vs_src          1-srcVStgt_spearman      -0.250  0.589
+10    LR                               LOMO only   7         auc_drop  1-perm_tgtVSnative_spearman       0.143  0.760
+11    LR                               LOMO only   7  auc_drop_vs_src  1-perm_tgtVSnative_spearman      -0.214  0.645
+12    LR                  all module-level pairs  27         auc_drop       1-tgtVSnative_spearman      -0.019  0.927
+13    LR                  all module-level pairs  27  auc_drop_vs_src       1-tgtVSnative_spearman       0.300  0.129
+14    LR                  all module-level pairs  27         auc_drop          1-srcVStgt_spearman       0.111  0.580
+15    LR                  all module-level pairs  27  auc_drop_vs_src          1-srcVStgt_spearman       0.193  0.336
+16    LR                  all module-level pairs  27         auc_drop  1-perm_tgtVSnative_spearman       0.222  0.266
+17    LR                  all module-level pairs  27  auc_drop_vs_src  1-perm_tgtVSnative_spearman       0.271  0.172
+18   XGB  LOMO + cross-year per module (primary)  13         auc_drop       1-tgtVSnative_spearman      -0.066  0.831
+19   XGB  LOMO + cross-year per module (primary)  13  auc_drop_vs_src       1-tgtVSnative_spearman       0.495  0.086
+20   XGB  LOMO + cross-year per module (primary)  13         auc_drop          1-srcVStgt_spearman       0.269  0.374
+21   XGB  LOMO + cross-year per module (primary)  13  auc_drop_vs_src          1-srcVStgt_spearman       0.335  0.263
+22   XGB  LOMO + cross-year per module (primary)  13         auc_drop  1-perm_tgtVSnative_spearman       0.000  1.000
+23   XGB  LOMO + cross-year per module (primary)  13  auc_drop_vs_src  1-perm_tgtVSnative_spearman      -0.220  0.471
+24   XGB                               LOMO only   7         auc_drop       1-tgtVSnative_spearman       0.000  1.000
+25   XGB                               LOMO only   7  auc_drop_vs_src       1-tgtVSnative_spearman       0.536  0.215
+26   XGB                               LOMO only   7         auc_drop          1-srcVStgt_spearman      -0.143  0.760
+27   XGB                               LOMO only   7  auc_drop_vs_src          1-srcVStgt_spearman      -0.214  0.645
+28   XGB                               LOMO only   7         auc_drop  1-perm_tgtVSnative_spearman       0.286  0.535
+29   XGB                               LOMO only   7  auc_drop_vs_src  1-perm_tgtVSnative_spearman       0.500  0.253
+30   XGB                  all module-level pairs  27         auc_drop       1-tgtVSnative_spearman      -0.118  0.559
+31   XGB                  all module-level pairs  27  auc_drop_vs_src       1-tgtVSnative_spearman       0.334  0.089
+32   XGB                  all module-level pairs  27         auc_drop          1-srcVStgt_spearman       0.236  0.236
+33   XGB                  all module-level pairs  27  auc_drop_vs_src          1-srcVStgt_spearman       0.287  0.147
+34   XGB                  all module-level pairs  27         auc_drop  1-perm_tgtVSnative_spearman      -0.148  0.461
+35   XGB                  all module-level pairs  27  auc_drop_vs_src  1-perm_tgtVSnative_spearman      -0.249  0.210

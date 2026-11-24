@@ -1,0 +1,17 @@
+cutoff,check,ok,detail
+28,no enrollment with date_unregistration < cutoff,True,
+28,n enrollments / at-risk prevalence,True,27553 / 0.4416; withdrawn after cutoff kept as positives: 5124
+28,pooled 80/20 grouped split student overlap = 0,True,0
+28,LOMO train/test student overlap = 0,True,"[0, 0, 0, 0, 0, 0, 0]"
+28,"cross-year: students in both 2013 and 2014 (retakers, kept as in Wu 2026)",True,1384 students; 1466 2014 records
+28,max single-feature AUC < 0.85,True,visits_homepage=0.666; active_days=0.665; clicks_homepage=0.661; total_clicks=0.661; total_visits=0.660
+28,"enrollments registered on/after cutoff (not observable in deployment; kept, as in Wu 2026)",True,18
+28,enrollments with no submitted assessment before cutoff (mean_score imputed),True,"0.264 overall; by module: AAA=0.07, BBB=0.10, CCC=0.11, DDD=0.13, EEE=0.93, FFF=0.10, GGG=0.99"
+56,no enrollment with date_unregistration < cutoff,True,
+56,n enrollments / at-risk prevalence,True,26532 / 0.4201; withdrawn after cutoff kept as positives: 4103
+56,pooled 80/20 grouped split student overlap = 0,True,0
+56,LOMO train/test student overlap = 0,True,"[0, 0, 0, 0, 0, 0, 0]"
+56,"cross-year: students in both 2013 and 2014 (retakers, kept as in Wu 2026)",True,1237 students; 1298 2014 records
+56,max single-feature AUC < 0.85,True,visits_homepage=0.695; active_days=0.695; days_since_last=0.692; mean_score=0.690; clicks_week7=0.689
+56,"enrollments registered on/after cutoff (not observable in deployment; kept, as in Wu 2026)",True,9
+56,enrollments with no submitted assessment before cutoff (mean_score imputed),True,"0.127 overall; by module: AAA=0.02, BBB=0.07, CCC=0.07, DDD=0.07, EEE=0.09, FFF=0.06, GGG=0.71"

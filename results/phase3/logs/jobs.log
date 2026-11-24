@@ -1,0 +1,283 @@
+done /workspace/oulad-pilot/src/../results/phase3/b100/d28/real_XGB_LOMO_AAA.json 1009s feat_boot 0.128 fam_boot 0.059
+done /workspace/oulad-pilot/src/../results/phase3/b100/d28/real_XGB_LOMO_EEE.json 1066s feat_boot 0.363 fam_boot 1.079
+done /workspace/oulad-pilot/src/../results/phase3/b100/d28/real_XGB_LOMO_CCC.json 1089s feat_boot 0.199 fam_boot 0.227
+done /workspace/oulad-pilot/src/../results/phase3/b100/d28/real_XGB_LOMO_DDD.json 1115s feat_boot 0.236 fam_boot 0.050
+done /workspace/oulad-pilot/src/../results/phase3/b100/d28/real_XGB_LOMO_BBB.json 1153s feat_boot 0.226 fam_boot 0.362
+done /workspace/oulad-pilot/src/../results/phase3/b100/d28/real_XGB_AAA_1314.json 64s feat_boot 0.128 fam_boot 0.170
+done /workspace/oulad-pilot/src/../results/phase3/b100/d28/real_XGB_EEE_1314.json 402s feat_boot 0.189 fam_boot 0.030
+done /workspace/oulad-pilot/src/../results/phase3/b100/d28/real_XGB_LOMO_GGG.json 494s feat_boot 0.308 fam_boot 0.982
+done /workspace/oulad-pilot/src/../results/phase3/b100/d28/real_XGB_BBB_1314.json 468s feat_boot 0.145 fam_boot 0.310
+done /workspace/oulad-pilot/src/../results/phase3/b100/d28/real_XGB_DDD_1314.json 464s feat_boot 0.066 fam_boot 0.071
+done /workspace/oulad-pilot/src/../results/phase3/b100/d28/real_XGB_LOMO_FFF.json 627s feat_boot 0.182 fam_boot 0.115
+done /workspace/oulad-pilot/src/../results/phase3/b100/d28/null_XGB_NULL_AAA.json 61s feat_boot 0.230 fam_boot 0.263
+done /workspace/oulad-pilot/src/../results/phase3/b100/d28/real_XGB_GGG_1314.json 126s feat_boot 0.095 fam_boot 0.136
+done /workspace/oulad-pilot/src/../results/phase3/b100/d28/real_XGB_FFF_1314.json 239s feat_boot 0.095 fam_boot 0.104
+done /workspace/oulad-pilot/src/../results/phase3/b100/d28/null_XGB_NULL_CCC.json 173s feat_boot 0.127 fam_boot 0.009
+done /workspace/oulad-pilot/src/../results/phase3/b100/d28/null_XGB_NULL_BBB.json 221s feat_boot 0.123 fam_boot 0.044
+done /workspace/oulad-pilot/src/../results/phase3/b100/d28/null_XGB_NULL_EEE.json 154s feat_boot 0.119 fam_boot 0.012
+done /workspace/oulad-pilot/src/../results/phase3/b100/d28/null_XGB_NULL_DDD.json 225s feat_boot 0.078 fam_boot 0.056
+done /workspace/oulad-pilot/src/../results/phase3/b100/d28/real_LR_LOMO_AAA.json 71s feat_boot -0.131 fam_boot -0.025
+done /workspace/oulad-pilot/src/../results/phase3/b100/d28/real_LR_LOMO_BBB.json 93s feat_boot 0.113 fam_boot 0.512
+done /workspace/oulad-pilot/src/../results/phase3/b100/d28/real_LR_LOMO_CCC.json 78s feat_boot -0.073 fam_boot 0.434
+done /workspace/oulad-pilot/src/../results/phase3/b100/d28/null_XGB_NULL_GGG.json 163s feat_boot 0.088 fam_boot 0.049
+done /workspace/oulad-pilot/src/../results/phase3/b100/d28/real_LR_LOMO_DDD.json 88s feat_boot 0.138 fam_boot 0.646
+done /workspace/oulad-pilot/src/../results/phase3/b100/d28/real_LR_LOMO_EEE.json 79s feat_boot -0.002 fam_boot 0.540
+done /workspace/oulad-pilot/src/../results/phase3/b100/d28/real_LR_AAA_1314.json 23s feat_boot 0.125 fam_boot 0.399
+done /workspace/oulad-pilot/src/../results/phase3/b100/d28/real_LR_LOMO_FFF.json 93s feat_boot 0.219 fam_boot 0.414
+done /workspace/oulad-pilot/src/../results/phase3/b100/d28/real_LR_LOMO_GGG.json 76s feat_boot 0.116 fam_boot 0.573
+done /workspace/oulad-pilot/src/../results/phase3/b100/d28/real_LR_BBB_1314.json 39s feat_boot 0.255 fam_boot 0.683
+done /workspace/oulad-pilot/src/../results/phase3/b100/d28/real_LR_DDD_1314.json 35s feat_boot 0.073 fam_boot -0.001
+done /workspace/oulad-pilot/src/../results/phase3/b100/d28/real_LR_EEE_1314.json 28s feat_boot 0.213 fam_boot 0.180
+done /workspace/oulad-pilot/src/../results/phase3/b100/d28/null_LR_NULL_AAA.json 24s feat_boot 0.091 fam_boot 0.195
+done /workspace/oulad-pilot/src/../results/phase3/b100/d28/real_LR_GGG_1314.json 28s feat_boot 0.158 fam_boot 0.107
+done /workspace/oulad-pilot/src/../results/phase3/b100/d28/real_LR_FFF_1314.json 42s feat_boot 0.185 fam_boot -0.003
+done /workspace/oulad-pilot/src/../results/phase3/b100/d28/null_LR_NULL_BBB.json 37s feat_boot 0.217 fam_boot 0.160
+done /workspace/oulad-pilot/src/../results/phase3/b100/d28/null_LR_NULL_CCC.json 28s feat_boot 0.198 fam_boot 0.081
+done /workspace/oulad-pilot/src/../results/phase3/b100/d28/null_XGB_NULL_FFF.json 321s feat_boot 0.102 fam_boot 0.057
+done /workspace/oulad-pilot/src/../results/phase3/b100/d28/null_LR_NULL_EEE.json 28s feat_boot 0.166 fam_boot 0.183
+done /workspace/oulad-pilot/src/../results/phase3/b100/d28/null_LR_NULL_DDD.json 35s feat_boot 0.080 fam_boot 0.015
+done /workspace/oulad-pilot/src/../results/phase3/b100/d28/null_LR_NULL_GGG.json 29s feat_boot 0.190 fam_boot 0.066
+done /workspace/oulad-pilot/src/../results/phase3/b100/d28/null_LR_NULL_FFF.json 40s feat_boot 0.094 fam_boot 0.022
+done /workspace/oulad-pilot/src/../results/phase3/b100/d56/real_XGB_LOMO_AAA.json 225s feat_boot 0.187 fam_boot 0.148
+done /workspace/oulad-pilot/src/../results/phase3/b100/d56/real_XGB_LOMO_CCC.json 318s feat_boot 0.136 fam_boot 0.148
+done /workspace/oulad-pilot/src/../results/phase3/b100/d56/real_XGB_LOMO_EEE.json 297s feat_boot 0.192 fam_boot 0.107
+done /workspace/oulad-pilot/src/../results/phase3/b100/d56/real_XGB_LOMO_DDD.json 365s feat_boot 0.241 fam_boot 0.050
+done /workspace/oulad-pilot/src/../results/phase3/b100/d56/real_XGB_LOMO_BBB.json 389s feat_boot 0.205 fam_boot 0.127
+done /workspace/oulad-pilot/src/../results/phase3/b100/d56/real_XGB_AAA_1314.json 63s feat_boot 0.195 fam_boot 0.159
+done /workspace/oulad-pilot/src/../results/phase3/b100/d56/real_XGB_EEE_1314.json 141s feat_boot 0.242 fam_boot 0.132
+done /workspace/oulad-pilot/src/../results/phase3/b100/d56/real_XGB_LOMO_GGG.json 256s feat_boot 0.258 fam_boot 0.666
+done /workspace/oulad-pilot/src/../results/phase3/b100/d56/real_XGB_BBB_1314.json 226s feat_boot 0.108 fam_boot 0.361
+done /workspace/oulad-pilot/src/../results/phase3/b100/d56/real_XGB_DDD_1314.json 227s feat_boot 0.152 fam_boot 0.107
+done /workspace/oulad-pilot/src/../results/phase3/b100/d56/real_XGB_LOMO_FFF.json 400s feat_boot 0.178 fam_boot 0.066
+done /workspace/oulad-pilot/src/../results/phase3/b100/d56/null_XGB_NULL_AAA.json 66s feat_boot 0.207 fam_boot 0.098
+done /workspace/oulad-pilot/src/../results/phase3/b100/d56/real_XGB_GGG_1314.json 135s feat_boot 0.126 fam_boot 0.054
+done /workspace/oulad-pilot/src/../results/phase3/b100/d56/real_XGB_FFF_1314.json 357s feat_boot 0.163 fam_boot 0.049
+done /workspace/oulad-pilot/src/../results/phase3/b100/d56/null_XGB_NULL_CCC.json 351s feat_boot 0.219 fam_boot 0.177
+done /workspace/oulad-pilot/src/../results/phase3/b100/d56/null_XGB_NULL_BBB.json 457s feat_boot 0.071 fam_boot 0.017
+done /workspace/oulad-pilot/src/../results/phase3/b100/d56/null_XGB_NULL_EEE.json 395s feat_boot 0.119 fam_boot 0.087
+done /workspace/oulad-pilot/src/../results/phase3/b100/d56/real_LR_LOMO_AAA.json 110s feat_boot 0.013 fam_boot 0.020
+done /workspace/oulad-pilot/src/../results/phase3/b100/d56/real_LR_LOMO_BBB.json 150s feat_boot 0.097 fam_boot 0.429
+done /workspace/oulad-pilot/src/../results/phase3/b100/d56/real_LR_LOMO_CCC.json 132s feat_boot 0.042 fam_boot 0.142
+done /workspace/oulad-pilot/src/../results/phase3/b100/d56/null_XGB_NULL_DDD.json 697s feat_boot 0.071 fam_boot 0.033
+done /workspace/oulad-pilot/src/../results/phase3/b100/d56/real_LR_LOMO_DDD.json 136s feat_boot 0.101 fam_boot 0.101
+done /workspace/oulad-pilot/src/../results/phase3/b100/d56/real_LR_LOMO_EEE.json 119s feat_boot -0.022 fam_boot 0.236
+done /workspace/oulad-pilot/src/../results/phase3/b100/d56/real_LR_AAA_1314.json 37s feat_boot 0.094 fam_boot 0.100
+done /workspace/oulad-pilot/src/../results/phase3/b100/d56/null_XGB_NULL_GGG.json 505s feat_boot 0.150 fam_boot 0.082
+done /workspace/oulad-pilot/src/../results/phase3/b100/d56/real_LR_LOMO_GGG.json 128s feat_boot 0.015 fam_boot 0.128
+done /workspace/oulad-pilot/src/../results/phase3/b100/d56/real_LR_DDD_1314.json 55s feat_boot 0.117 fam_boot 0.083
+done /workspace/oulad-pilot/src/../results/phase3/b100/d56/real_LR_BBB_1314.json 58s feat_boot 0.207 fam_boot 0.788
+done /workspace/oulad-pilot/src/../results/phase3/b100/d56/real_LR_LOMO_FFF.json 160s feat_boot 0.256 fam_boot 0.307
+done /workspace/oulad-pilot/src/../results/phase3/b100/d56/real_LR_EEE_1314.json 30s feat_boot 0.156 fam_boot 0.047
+done /workspace/oulad-pilot/src/../results/phase3/b100/d56/null_LR_NULL_AAA.json 23s feat_boot 0.137 fam_boot 0.005
+done /workspace/oulad-pilot/src/../results/phase3/b100/d56/real_LR_GGG_1314.json 29s feat_boot 0.225 fam_boot 0.106
+done /workspace/oulad-pilot/src/../results/phase3/b100/d56/real_LR_FFF_1314.json 52s feat_boot 0.196 fam_boot 0.047
+done /workspace/oulad-pilot/src/../results/phase3/b100/d56/null_LR_NULL_CCC.json 35s feat_boot 0.106 fam_boot 0.146
+done /workspace/oulad-pilot/src/../results/phase3/b100/d56/null_LR_NULL_BBB.json 44s feat_boot 0.067 fam_boot 0.009
+done /workspace/oulad-pilot/src/../results/phase3/b100/d56/null_LR_NULL_DDD.json 44s feat_boot 0.103 fam_boot 0.017
+done /workspace/oulad-pilot/src/../results/phase3/b100/d56/null_LR_NULL_EEE.json 31s feat_boot 0.143 fam_boot 0.009
+done /workspace/oulad-pilot/src/../results/phase3/b100/d56/null_LR_NULL_GGG.json 29s feat_boot 0.204 fam_boot 0.163
+done /workspace/oulad-pilot/src/../results/phase3/b100/d56/null_LR_NULL_FFF.json 48s feat_boot 0.189 fam_boot 0.191
+done /workspace/oulad-pilot/src/../results/phase3/b100/d56/null_XGB_NULL_FFF.json 892s feat_boot 0.116 fam_boot 0.048
+done /workspace/oulad-pilot/src/../results/phase3/b100/d7/real_XGB_LOMO_AAA.json 464s feat_boot 0.025 fam_boot 0.079
+# restart after box reboot Wed Nov 25 01:06:48 +08 2026
+skipskip /workspace/oulad-pilot/src/../results/phase3/b100/d28/real_XGB_LOMO_DDD.json 
+/workspace/oulad-pilot/src/../results/phase3/b100/d28/real_XGB_LOMO_BBB.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d28/real_XGB_LOMO_CCC.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d28/real_XGB_LOMO_AAA.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d28/real_XGB_LOMO_EEE.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d28/real_XGB_AAA_1314.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d28/real_XGB_LOMO_GGG.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d28/real_XGB_LOMO_FFF.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d28/real_XGB_BBB_1314.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d28/real_XGB_DDD_1314.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d28/real_XGB_EEE_1314.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d28/real_XGB_FFF_1314.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d28/null_XGB_NULL_AAA.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d28/real_XGB_GGG_1314.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d28/null_XGB_NULL_BBB.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d28/null_XGB_NULL_CCC.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d28/null_XGB_NULL_DDD.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d28/null_XGB_NULL_EEE.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d28/null_XGB_NULL_FFF.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d28/null_XGB_NULL_GGG.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d28/real_LR_LOMO_AAA.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d28/real_LR_LOMO_BBB.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d28/real_LR_LOMO_CCC.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d28/real_LR_LOMO_DDD.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d28/real_LR_LOMO_EEE.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d28/real_LR_LOMO_FFF.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d28/real_LR_LOMO_GGG.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d28/real_LR_AAA_1314.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d28/real_LR_DDD_1314.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d28/real_LR_EEE_1314.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d28/real_LR_BBB_1314.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d28/real_LR_FFF_1314.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d28/real_LR_GGG_1314.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d28/null_LR_NULL_AAA.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d28/null_LR_NULL_BBB.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d28/null_LR_NULL_CCC.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d28/null_LR_NULL_DDD.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d28/null_LR_NULL_FFF.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d28/null_LR_NULL_GGG.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d28/null_LR_NULL_EEE.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d56/real_XGB_LOMO_AAA.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d56/real_XGB_LOMO_BBB.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d56/real_XGB_LOMO_DDD.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d56/real_XGB_LOMO_CCC.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d56/real_XGB_LOMO_EEE.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d56/real_XGB_AAA_1314.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d56/real_XGB_LOMO_FFF.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d56/real_XGB_LOMO_GGG.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d56/real_XGB_BBB_1314.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d56/real_XGB_EEE_1314.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d56/real_XGB_DDD_1314.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d56/real_XGB_FFF_1314.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d56/real_XGB_GGG_1314.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d56/null_XGB_NULL_BBB.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d56/null_XGB_NULL_AAA.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d56/null_XGB_NULL_CCC.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d56/null_XGB_NULL_DDD.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d56/null_XGB_NULL_EEE.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d56/null_XGB_NULL_FFF.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d56/null_XGB_NULL_GGG.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d56/real_LR_LOMO_AAA.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d56/real_LR_LOMO_BBB.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d56/real_LR_LOMO_CCC.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d56/real_LR_LOMO_DDD.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d56/real_LR_LOMO_EEE.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d56/real_LR_LOMO_GGG.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d56/real_LR_LOMO_FFF.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d56/real_LR_AAA_1314.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d56/real_LR_BBB_1314.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d56/real_LR_EEE_1314.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d56/real_LR_DDD_1314.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d56/real_LR_FFF_1314.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d56/real_LR_GGG_1314.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d56/null_LR_NULL_AAA.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d56/null_LR_NULL_BBB.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d56/null_LR_NULL_CCC.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d56/null_LR_NULL_DDD.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d56/null_LR_NULL_EEE.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d56/null_LR_NULL_FFF.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d56/null_LR_NULL_GGG.json
+skip /workspace/oulad-pilot/src/../results/phase3/b100/d7/real_XGB_LOMO_AAA.json
+done /workspace/oulad-pilot/src/../results/phase3/b100/d7/real_XGB_LOMO_EEE.json 840s feat_boot 0.149 fam_boot 0.013
+done /workspace/oulad-pilot/src/../results/phase3/b100/d7/real_XGB_LOMO_CCC.json 891s feat_boot 0.098 fam_boot 0.075
+done /workspace/oulad-pilot/src/../results/phase3/b100/d7/real_XGB_LOMO_DDD.json 919s feat_boot 0.128 fam_boot 0.025
+done /workspace/oulad-pilot/src/../results/phase3/b100/d7/real_XGB_LOMO_BBB.json 961s feat_boot 0.117 fam_boot -0.011
+done /workspace/oulad-pilot/src/../results/phase3/b100/d7/real_XGB_AAA_1314.json 129s feat_boot 0.135 fam_boot 0.037
+done /workspace/oulad-pilot/src/../results/phase3/b100/d7/real_XGB_LOMO_GGG.json 358s feat_boot 0.105 fam_boot 0.040
+done /workspace/oulad-pilot/src/../results/phase3/b100/d7/real_XGB_BBB_1314.json 330s feat_boot 0.031 fam_boot 0.087
+done /workspace/oulad-pilot/src/../results/phase3/b100/d7/real_XGB_DDD_1314.json 301s feat_boot 0.021 fam_boot 0.033
+done /workspace/oulad-pilot/src/../results/phase3/b100/d7/real_XGB_LOMO_FFF.json 544s feat_boot 0.126 fam_boot 0.010
+done /workspace/oulad-pilot/src/../results/phase3/b100/d7/null_XGB_NULL_AAA.json 109s feat_boot 0.081 fam_boot -0.027
+done /workspace/oulad-pilot/src/../results/phase3/b100/d7/real_XGB_EEE_1314.json 247s feat_boot 0.065 fam_boot 0.047
+done /workspace/oulad-pilot/src/../results/phase3/b100/d7/real_XGB_GGG_1314.json 196s feat_boot 0.095 fam_boot 0.206
+done /workspace/oulad-pilot/src/../results/phase3/b100/d7/real_XGB_FFF_1314.json 357s feat_boot 0.090 fam_boot 0.014
+done /workspace/oulad-pilot/src/../results/phase3/b100/d7/null_XGB_NULL_CCC.json 628s feat_boot 0.071 fam_boot -0.005
+done /workspace/oulad-pilot/src/../results/phase3/b100/d7/null_XGB_NULL_BBB.json 686s feat_boot 0.040 fam_boot 0.013
+done /workspace/oulad-pilot/src/../results/phase3/b100/d7/null_XGB_NULL_EEE.json 558s feat_boot 0.100 fam_boot 0.088
+done /workspace/oulad-pilot/src/../results/phase3/b100/d7/null_XGB_NULL_DDD.json 677s feat_boot 0.089 fam_boot 0.026
+done /workspace/oulad-pilot/src/../results/phase3/b100/d7/real_LR_LOMO_AAA.json 93s feat_boot -0.245 fam_boot -0.007
+done /workspace/oulad-pilot/src/../results/phase3/b100/d7/real_LR_LOMO_BBB.json 111s feat_boot 0.020 fam_boot 0.143
+done /workspace/oulad-pilot/src/../results/phase3/b100/d7/real_LR_LOMO_CCC.json 92s feat_boot -0.124 fam_boot 0.011
+done /workspace/oulad-pilot/src/../results/phase3/b100/d7/null_XGB_NULL_GGG.json 251s feat_boot 0.131 fam_boot -0.020
+done /workspace/oulad-pilot/src/../results/phase3/b100/d7/real_LR_LOMO_DDD.json 101s feat_boot -0.021 fam_boot 0.130
+done /workspace/oulad-pilot/src/../results/phase3/b100/d7/real_LR_LOMO_EEE.json 88s feat_boot -0.091 fam_boot 0.029
+done /workspace/oulad-pilot/src/../results/phase3/b100/d7/real_LR_AAA_1314.json 27s feat_boot 0.018 fam_boot -0.032
+done /workspace/oulad-pilot/src/../results/phase3/b100/d7/real_LR_LOMO_GGG.json 91s feat_boot -0.163 fam_boot 0.121
+done /workspace/oulad-pilot/src/../results/phase3/b100/d7/real_LR_LOMO_FFF.json 114s feat_boot 0.120 fam_boot 0.013
+done /workspace/oulad-pilot/src/../results/phase3/b100/d7/real_LR_BBB_1314.json 38s feat_boot 0.131 fam_boot 0.109
+done /workspace/oulad-pilot/src/../results/phase3/b100/d7/real_LR_DDD_1314.json 33s feat_boot 0.094 fam_boot -0.000
+done /workspace/oulad-pilot/src/../results/phase3/b100/d7/real_LR_EEE_1314.json 26s feat_boot 0.015 fam_boot 0.033
+done /workspace/oulad-pilot/src/../results/phase3/b100/d7/real_LR_FFF_1314.json 37s feat_boot 0.215 fam_boot -0.006
+done /workspace/oulad-pilot/src/../results/phase3/b100/d7/real_LR_GGG_1314.json 24s feat_boot 0.079 fam_boot 0.051
+done /workspace/oulad-pilot/src/../results/phase3/b100/d7/null_LR_NULL_AAA.json 20s feat_boot 0.041 fam_boot 0.035
+done /workspace/oulad-pilot/src/../results/phase3/b100/d7/null_XGB_NULL_FFF.json 475s feat_boot 0.042 fam_boot 0.012
+done /workspace/oulad-pilot/src/../results/phase3/b100/d7/null_LR_NULL_CCC.json 30s feat_boot 0.169 fam_boot 0.009
+done /workspace/oulad-pilot/src/../results/phase3/b100/d7/null_LR_NULL_EEE.json 26s feat_boot 0.166 fam_boot 0.175
+done /workspace/oulad-pilot/src/../results/phase3/b100/d7/null_LR_NULL_BBB.json 38s feat_boot 0.205 fam_boot 0.092
+done /workspace/oulad-pilot/src/../results/phase3/b100/d7/null_LR_NULL_DDD.json 37s feat_boot 0.102 fam_boot 0.181
+done /workspace/oulad-pilot/src/../results/phase3/b100/d7/null_LR_NULL_GGG.json 24s feat_boot 0.010 fam_boot -0.058
+done /workspace/oulad-pilot/src/../results/phase3/b100/d7/null_LR_NULL_FFF.json 39s feat_boot 0.195 fam_boot 0.057
+done /workspace/oulad-pilot/src/../results/phase3/b100/d14/real_XGB_LOMO_AAA.json 344s feat_boot 0.063 fam_boot 0.028
+done /workspace/oulad-pilot/src/../results/phase3/b100/d14/real_XGB_LOMO_CCC.json 502s feat_boot 0.172 fam_boot 0.179
+done /workspace/oulad-pilot/src/../results/phase3/b100/d14/real_XGB_LOMO_DDD.json 514s feat_boot 0.147 fam_boot 0.041
+done /workspace/oulad-pilot/src/../results/phase3/b100/d14/real_XGB_LOMO_BBB.json 560s feat_boot 0.112 fam_boot 0.023
+done /workspace/oulad-pilot/src/../results/phase3/b100/d14/real_XGB_AAA_1314.json 195s feat_boot 0.094 fam_boot 0.075
+done /workspace/oulad-pilot/src/../results/phase3/b100/d14/real_XGB_LOMO_EEE.json 776s feat_boot 0.207 fam_boot -0.005
+done /workspace/oulad-pilot/src/../results/phase3/b100/d14/real_XGB_LOMO_GGG.json 758s feat_boot 0.125 fam_boot 0.109
+done /workspace/oulad-pilot/src/../results/phase3/b100/d14/real_XGB_BBB_1314.json 567s feat_boot 0.089 fam_boot 0.134
+done /workspace/oulad-pilot/src/../results/phase3/b100/d14/real_XGB_LOMO_FFF.json 890s feat_boot 0.134 fam_boot 0.023
+done /workspace/oulad-pilot/src/../results/phase3/b100/d14/real_XGB_DDD_1314.json 318s feat_boot 0.055 fam_boot 0.023
+done /workspace/oulad-pilot/src/../results/phase3/b100/d14/real_XGB_EEE_1314.json 220s feat_boot 0.071 fam_boot 0.125
+done /workspace/oulad-pilot/src/../results/phase3/b100/d14/null_XGB_NULL_AAA.json 137s feat_boot 0.107 fam_boot -0.024
+done /workspace/oulad-pilot/src/../results/phase3/b100/d14/real_XGB_GGG_1314.json 204s feat_boot 0.097 fam_boot 0.228
+done /workspace/oulad-pilot/src/../results/phase3/b100/d14/real_XGB_FFF_1314.json 368s feat_boot 0.081 fam_boot 0.035
+done /workspace/oulad-pilot/src/../results/phase3/b100/d14/null_XGB_NULL_CCC.json 259s feat_boot 0.100 fam_boot 0.025
+done /workspace/oulad-pilot/src/../results/phase3/b100/d14/null_XGB_NULL_BBB.json 316s feat_boot 0.073 fam_boot 0.000
+done /workspace/oulad-pilot/src/../results/phase3/b100/d14/null_XGB_NULL_EEE.json 212s feat_boot 0.083 fam_boot -0.002
+done /workspace/oulad-pilot/src/../results/phase3/b100/d14/null_XGB_NULL_DDD.json 334s feat_boot 0.130 fam_boot 0.022
+done /workspace/oulad-pilot/src/../results/phase3/b100/d14/real_LR_LOMO_AAA.json 74s feat_boot -0.248 fam_boot -0.067
+done /workspace/oulad-pilot/src/../results/phase3/b100/d14/real_LR_LOMO_BBB.json 150s feat_boot 0.004 fam_boot 0.293
+done /workspace/oulad-pilot/src/../results/phase3/b100/d14/real_LR_LOMO_CCC.json 157s feat_boot -0.126 fam_boot 0.043
+done /workspace/oulad-pilot/src/../results/phase3/b100/d14/null_XGB_NULL_GGG.json 351s feat_boot 0.101 fam_boot 0.092
+done /workspace/oulad-pilot/src/../results/phase3/b100/d14/real_LR_LOMO_DDD.json 210s feat_boot 0.092 fam_boot 0.139
+done /workspace/oulad-pilot/src/../results/phase3/b100/d14/real_LR_LOMO_EEE.json 223s feat_boot -0.039 fam_boot 0.124
+done /workspace/oulad-pilot/src/../results/phase3/b100/d14/real_LR_AAA_1314.json 71s feat_boot 0.056 fam_boot 0.082
+done /workspace/oulad-pilot/src/../results/phase3/b100/d14/real_LR_LOMO_FFF.json 343s feat_boot 0.148 fam_boot 0.031
+done /workspace/oulad-pilot/src/../results/phase3/b100/d14/real_LR_BBB_1314.json 136s feat_boot 0.154 fam_boot 0.385
+done /workspace/oulad-pilot/src/../results/phase3/b100/d14/real_LR_LOMO_GGG.json 279s feat_boot -0.157 fam_boot 0.152
+done /workspace/oulad-pilot/src/../results/phase3/b100/d14/real_LR_DDD_1314.json 79s feat_boot 0.091 fam_boot 0.071
+done /workspace/oulad-pilot/src/../results/phase3/b100/d14/null_XGB_NULL_FFF.json 788s feat_boot 0.107 fam_boot 0.012
+done /workspace/oulad-pilot/src/../results/phase3/b100/d14/real_LR_EEE_1314.json 40s feat_boot 0.085 fam_boot 0.065
+done /workspace/oulad-pilot/src/../results/phase3/b100/d14/real_LR_FFF_1314.json 37s feat_boot 0.241 fam_boot 0.044
+done /workspace/oulad-pilot/src/../results/phase3/b100/d14/real_LR_GGG_1314.json 23s feat_boot 0.170 fam_boot 0.083
+done /workspace/oulad-pilot/src/../results/phase3/b100/d14/null_LR_NULL_AAA.json 19s feat_boot 0.124 fam_boot 0.066
+done /workspace/oulad-pilot/src/../results/phase3/b100/d14/null_LR_NULL_BBB.json 31s feat_boot 0.167 fam_boot 0.108
+done /workspace/oulad-pilot/src/../results/phase3/b100/d14/null_LR_NULL_CCC.json 26s feat_boot 0.125 fam_boot 0.125
+done /workspace/oulad-pilot/src/../results/phase3/b100/d14/null_LR_NULL_EEE.json 24s feat_boot 0.119 fam_boot -0.028
+done /workspace/oulad-pilot/src/../results/phase3/b100/d14/null_LR_NULL_DDD.json 31s feat_boot 0.099 fam_boot 0.148
+done /workspace/oulad-pilot/src/../results/phase3/b100/d14/null_LR_NULL_GGG.json 23s feat_boot 0.090 fam_boot 0.095
+done /workspace/oulad-pilot/src/../results/phase3/b100/d14/null_LR_NULL_FFF.json 35s feat_boot 0.142 fam_boot 0.018
+done /workspace/oulad-pilot/src/../results/phase3/b100/d112/real_XGB_LOMO_AAA.json 169s feat_boot 0.061 fam_boot 0.051
+done /workspace/oulad-pilot/src/../results/phase3/b100/d112/real_XGB_LOMO_CCC.json 255s feat_boot 0.047 fam_boot -0.013
+done /workspace/oulad-pilot/src/../results/phase3/b100/d112/real_XGB_LOMO_DDD.json 300s feat_boot 0.214 fam_boot 0.143
+done /workspace/oulad-pilot/src/../results/phase3/b100/d112/real_XGB_LOMO_BBB.json 329s feat_boot 0.103 fam_boot 0.033
+done /workspace/oulad-pilot/src/../results/phase3/b100/d112/real_XGB_AAA_1314.json 37s feat_boot 0.252 fam_boot 0.008
+done /workspace/oulad-pilot/src/../results/phase3/b100/d112/real_XGB_LOMO_EEE.json 225s feat_boot 0.128 fam_boot 0.037
+done /workspace/oulad-pilot/src/../results/phase3/b100/d112/real_XGB_LOMO_GGG.json 214s feat_boot 0.129 fam_boot 0.065
+done /workspace/oulad-pilot/src/../results/phase3/b100/d112/real_XGB_BBB_1314.json 178s feat_boot 0.179 fam_boot 0.109
+done /workspace/oulad-pilot/src/../results/phase3/b100/d112/real_XGB_DDD_1314.json 162s feat_boot 0.084 fam_boot 0.043
+done /workspace/oulad-pilot/src/../results/phase3/b100/d112/real_XGB_LOMO_FFF.json 326s feat_boot 0.166 fam_boot 0.049
+done /workspace/oulad-pilot/src/../results/phase3/b100/d112/real_XGB_EEE_1314.json 88s feat_boot 0.212 fam_boot 0.020
+done /workspace/oulad-pilot/src/../results/phase3/b100/d112/null_XGB_NULL_AAA.json 36s feat_boot 0.142 fam_boot 0.051
+done /workspace/oulad-pilot/src/../results/phase3/b100/d112/real_XGB_GGG_1314.json 87s feat_boot 0.260 fam_boot 0.345
+done /workspace/oulad-pilot/src/../results/phase3/b100/d112/null_XGB_NULL_CCC.json 112s feat_boot 0.133 fam_boot 0.027
+done /workspace/oulad-pilot/src/../results/phase3/b100/d112/real_XGB_FFF_1314.json 199s feat_boot 0.162 fam_boot 0.009
+done /workspace/oulad-pilot/src/../results/phase3/b100/d112/null_XGB_NULL_BBB.json 182s feat_boot 0.128 fam_boot 0.015
+done /workspace/oulad-pilot/src/../results/phase3/b100/d112/null_XGB_NULL_DDD.json 167s feat_boot 0.159 fam_boot 0.042
+done /workspace/oulad-pilot/src/../results/phase3/b100/d112/null_XGB_NULL_EEE.json 91s feat_boot 0.104 fam_boot 0.061
+done /workspace/oulad-pilot/src/../results/phase3/b100/d112/real_LR_LOMO_AAA.json 49s feat_boot -0.071 fam_boot -0.155
+done /workspace/oulad-pilot/src/../results/phase3/b100/d112/real_LR_LOMO_BBB.json 65s feat_boot 0.136 fam_boot 0.190
+done /workspace/oulad-pilot/src/../results/phase3/b100/d112/null_XGB_NULL_GGG.json 100s feat_boot 0.177 fam_boot -0.030
+done /workspace/oulad-pilot/src/../results/phase3/b100/d112/real_LR_LOMO_CCC.json 58s feat_boot 0.088 fam_boot 0.043
+done /workspace/oulad-pilot/src/../results/phase3/b100/d112/real_LR_LOMO_EEE.json 60s feat_boot -0.017 fam_boot 0.138
+done /workspace/oulad-pilot/src/../results/phase3/b100/d112/real_LR_LOMO_DDD.json 69s feat_boot 0.138 fam_boot 0.303
+done /workspace/oulad-pilot/src/../results/phase3/b100/d112/null_XGB_NULL_FFF.json 236s feat_boot 0.058 fam_boot 0.023
+done /workspace/oulad-pilot/src/../results/phase3/b100/d112/real_LR_AAA_1314.json 20s feat_boot 0.113 fam_boot 0.152
+done /workspace/oulad-pilot/src/../results/phase3/b100/d112/real_LR_LOMO_FFF.json 79s feat_boot 0.246 fam_boot 0.374
+done /workspace/oulad-pilot/src/../results/phase3/b100/d112/real_LR_BBB_1314.json 36s feat_boot 0.150 fam_boot 0.260
+done /workspace/oulad-pilot/src/../results/phase3/b100/d112/real_LR_EEE_1314.json 25s feat_boot 0.341 fam_boot 0.021
+done /workspace/oulad-pilot/src/../results/phase3/b100/d112/real_LR_LOMO_GGG.json 58s feat_boot 0.075 fam_boot 0.221
+done /workspace/oulad-pilot/src/../results/phase3/b100/d112/real_LR_DDD_1314.json 31s feat_boot 0.075 fam_boot 0.071
+done /workspace/oulad-pilot/src/../results/phase3/b100/d112/null_LR_NULL_AAA.json 19s feat_boot 0.245 fam_boot 0.337
+done /workspace/oulad-pilot/src/../results/phase3/b100/d112/real_LR_GGG_1314.json 24s feat_boot 0.201 fam_boot 0.169
+done /workspace/oulad-pilot/src/../results/phase3/b100/d112/real_LR_FFF_1314.json 35s feat_boot 0.140 fam_boot 0.084
+done /workspace/oulad-pilot/src/../results/phase3/b100/d112/null_LR_NULL_BBB.json 33s feat_boot 0.109 fam_boot 0.114
+done /workspace/oulad-pilot/src/../results/phase3/b100/d112/null_LR_NULL_CCC.json 24s feat_boot 0.099 fam_boot 0.108
+done /workspace/oulad-pilot/src/../results/phase3/b100/d112/null_LR_NULL_DDD.json 30s feat_boot 0.089 fam_boot 0.021
+done /workspace/oulad-pilot/src/../results/phase3/b100/d112/null_LR_NULL_EEE.json 24s feat_boot 0.117 fam_boot 0.030
+done /workspace/oulad-pilot/src/../results/phase3/b100/d112/null_LR_NULL_GGG.json 23s feat_boot 0.104 fam_boot 0.031
+done /workspace/oulad-pilot/src/../results/phase3/b100/d112/null_LR_NULL_FFF.json 34s feat_boot 0.024 fam_boot 0.015
+ALLJOBSDONE
